@@ -1,0 +1,36 @@
+<XMBML version="1.0">
+<View id="X_games">
+<Attributes>
+<Table key="psnstuff_PSN_EU_item_644">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/X-COM Enemy Unknown.png</String></Pair>
+                <Pair key="title"><String>X-COM Enemy Unknown</String></Pair>
+                <Pair key="info"><String>NPEB01241 - 7774.62 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+</Attributes>
+
+<Items>
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_644"
+                attr="psnstuff_PSN_EU_item_644"
+                src="#psnstuff_PSN_EU_item_644_link"
+            />
+</Items>
+</View>
+ <View id="psnstuff_PSN_EU_item_644_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_644">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1001/NPEB01241_00/GlkPZjGmFpINjEIisJjKKKWKzRVuZWTVWlOJcVSKzfWlyHqsmugSdIpNfNarCmis.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1001/NPEB01241_00/GlkPZjGmFpINjEIisJjKKKWKzRVuZWTVWlOJcVSKzfWlyHqsmugSdIpNfNarCmis.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1001-NPEB01241_00-HDDBOOT000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_644" attr="psnstuff_PSN_EU_link_644"/>
+        </Items>
+    </View>
+</XMBML>

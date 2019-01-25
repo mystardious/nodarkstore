@@ -1,0 +1,373 @@
+<XMBML version="1.0">
+<View id="region_3">
+<Attributes>				
+	        <Table key="A_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>A</String></Pair>
+                <Pair key="info"><String>Letter A</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="B_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>B</String></Pair>
+                <Pair key="info"><String>Letter B</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="C_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>C</String></Pair>
+                <Pair key="info"><String>Letter C</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="D_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>D</String></Pair>
+                <Pair key="info"><String>Letter D</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="E_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>E</String></Pair>
+                <Pair key="info"><String>Letter E</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="F_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>F</String></Pair>
+                <Pair key="info"><String>Letter F</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="G_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>G</String></Pair>
+                <Pair key="info"><String>Letter G</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="H_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>H</String></Pair>
+                <Pair key="info"><String>Letter H</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="I_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>I</String></Pair>
+                <Pair key="info"><String>Letter I</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="J_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>J</String></Pair>
+                <Pair key="info"><String>Letter J</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="K_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>K</String></Pair>
+                <Pair key="info"><String>Letter K</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="L_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>L</String></Pair>
+                <Pair key="info"><String>Letter L</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="M_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>M</String></Pair>
+                <Pair key="info"><String>Letter M</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="N_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>N</String></Pair>
+                <Pair key="info"><String>Letter N</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="O_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>O</String></Pair>
+                <Pair key="info"><String>Letter O</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="P_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>P</String></Pair>
+                <Pair key="info"><String>Letter P</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="Q_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>Q</String></Pair>
+                <Pair key="info"><String>Letter Q</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="R_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>R</String></Pair>
+                <Pair key="info"><String>Letter R</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="S_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>S</String></Pair>
+                <Pair key="info"><String>Letter S</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>			
+			
+			<Table key="T_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>T</String></Pair>
+                <Pair key="info"><String>Letter T</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="U_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>U</String></Pair>
+                <Pair key="info"><String>Letter U</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="V_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>V</String></Pair>
+                <Pair key="info"><String>Letter V</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="W_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>W</String></Pair>
+                <Pair key="info"><String>Letter W</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="X_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>X</String></Pair>
+                <Pair key="info"><String>Letter X</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="Y_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>Y</String></Pair>
+                <Pair key="info"><String>Letter Y</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="Z_jpngames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>Z</String></Pair>
+                <Pair key="info"><String>Letter Z</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+					
+</Attributes>
+
+<Items>		
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="A_jpngames"
+                attr="A_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/A.xml#A_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="B_jpngames"
+                attr="B_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/B.xml#B_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="C_jpngames"
+                attr="C_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/C.xml#C_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="D_jpngames"
+                attr="D_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/D.xml#D_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="E_jpngames"
+                attr="E_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/E.xml#E_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="F_jpngames"
+                attr="F_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/F.xml#F_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="G_jpngames"
+                attr="G_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/G.xml#G_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="H_jpngames"
+                attr="H_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/H.xml#H_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="I_jpngames"
+                attr="I_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/I.xml#I_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="J_jpngames"
+                attr="J_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/J.xml#J_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="K_jpngames"
+                attr="K_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/K.xml#K_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="L_jpngames"
+                attr="L_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/L.xml#L_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="M_jpngames"
+                attr="M_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/M.xml#M_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="N_jpngames"
+                attr="N_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/N.xml#N_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="O_jpngames"
+                attr="O_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/O.xml#O_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="P_jpngames"
+                attr="P_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/P.xml#P_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="Q_jpngames"
+                attr="Q_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/Q.xml#Q_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="R_jpngames"
+                attr="R_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/R.xml#R_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="S_jpngames"
+                attr="S_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/S.xml#S_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="T_jpngames"
+                attr="T_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/T.xml#T_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="U_jpngames"
+                attr="U_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/U.xml#U_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="V_jpngames"
+                attr="V_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/V.xml#V_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="W_jpngames"
+                attr="W_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/W.xml#W_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="X_jpngames"
+                attr="X_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/X.xml#X_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="Y_jpngames"
+                attr="Y_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/Y.xml#Y_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="Z_jpngames"
+                attr="Z_jpngames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/Z.xml#Z_games"
+            />
+			
+</Items>
+</View>
+</XMBML>

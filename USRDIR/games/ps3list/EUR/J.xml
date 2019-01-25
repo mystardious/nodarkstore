@@ -1,0 +1,288 @@
+<XMBML version="1.0">
+<View id="J_games">
+<Attributes>
+ <Table key="psnstuff_PSN_EU_item_258">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Jak and Daxter 2 - Renegade.png</String></Pair>
+                <Pair key="title"><String>Jak and Daxter 2 - Renegade</String></Pair>
+                <Pair key="info"><String>NPEA00339 - 3429.24 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_259">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Jak and Daxter 3.png</String></Pair>
+                <Pair key="title"><String>Jak and Daxter 3</String></Pair>
+                <Pair key="info"><String>NPEA00340 - 3069.70 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_260">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Jak and Daxter The Precursor Legacy.png</String></Pair>
+                <Pair key="title"><String>Jak and Daxter The Precursor Legacy</String></Pair>
+                <Pair key="info"><String>NPEA00338 - 991.73 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_261">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Jetpack Joyride.png</String></Pair>
+                <Pair key="title"><String>Jetpack Joyride</String></Pair>
+                <Pair key="info"><String>NPEB01240 - 33.72 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_262">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Joe Danger.png</String></Pair>
+                <Pair key="title"><String>Joe Danger</String></Pair>
+                <Pair key="info"><String>NPEB00205 - 260.18 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_263">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/JoJos Bizarre Adventure - All-Star Battle.png</String></Pair>
+                <Pair key="title"><String>JoJos Bizarre Adventure: All-Star Battle</String></Pair>
+                <Pair key="info"><String>NPEB01922 - 2695.21 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_264">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Journey PSN.png</String></Pair>
+                <Pair key="title"><String>Journey PSN</String></Pair>
+                <Pair key="info"><String>NPEA00288 - 590.44 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_265">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Judge Dee - The City God Case.png</String></Pair>
+                <Pair key="title"><String>Judge Dee - The City God Case</String></Pair>
+                <Pair key="info"><String>NPEB00866 - 320.97 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_266">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Juju.png</String></Pair>
+                <Pair key="title"><String>Juju</String></Pair>
+                <Pair key="info"><String>NPEB02130 - 2406.08 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_267">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Just Cause 2.png</String></Pair>
+                <Pair key="title"><String>Just Cause 2</String></Pair>
+                <Pair key="info"><String>NPEB00751 - 7488.60 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+</Attributes>
+<Items>
+<Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_258"
+                attr="psnstuff_PSN_EU_item_258"
+                src="#psnstuff_PSN_EU_item_258_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_259"
+                attr="psnstuff_PSN_EU_item_259"
+                src="#psnstuff_PSN_EU_item_259_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_260"
+                attr="psnstuff_PSN_EU_item_260"
+                src="#psnstuff_PSN_EU_item_260_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_261"
+                attr="psnstuff_PSN_EU_item_261"
+                src="#psnstuff_PSN_EU_item_261_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_262"
+                attr="psnstuff_PSN_EU_item_262"
+                src="#psnstuff_PSN_EU_item_262_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_263"
+                attr="psnstuff_PSN_EU_item_263"
+                src="#psnstuff_PSN_EU_item_263_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_264"
+                attr="psnstuff_PSN_EU_item_264"
+                src="#psnstuff_PSN_EU_item_264_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_265"
+                attr="psnstuff_PSN_EU_item_265"
+                src="#psnstuff_PSN_EU_item_265_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_266"
+                attr="psnstuff_PSN_EU_item_266"
+                src="#psnstuff_PSN_EU_item_266_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_267"
+                attr="psnstuff_PSN_EU_item_267"
+                src="#psnstuff_PSN_EU_item_267_link"
+            />
+</Items>
+</View>
+
+ <View id="psnstuff_PSN_EU_item_258_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_258">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00339_00/eftykKyDZYHcIMDcSvkpKhTlnqYjIgGzeBAsNcfDlXcoZWJkntVDsTfiMnDXftmE.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00339_00/eftykKyDZYHcIMDcSvkpKhTlnqYjIgGzeBAsNcfDlXcoZWJkntVDsTfiMnDXftmE.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00339_00-JAKII00000000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_258" attr="psnstuff_PSN_EU_link_258"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_259_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_259">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00340_00/JfWIXHExcdxROSkpsDugLGuTGlIYAIAbnFUBxvvJcmLCPexBxNDTNmcHwLHptQdL.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00340_00/JfWIXHExcdxROSkpsDugLGuTGlIYAIAbnFUBxvvJcmLCPexBxNDTNmcHwLHptQdL.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00340_00-JAK3000000000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_259" attr="psnstuff_PSN_EU_link_259"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_260_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_260">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00338_00/JkXCepDZXgNQwnpEErladNptWgvrkcEjdLQPeAwncWomLEmXJLPsObPpXHagfiZD.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00338_00/JkXCepDZXgNQwnpEErladNptWgvrkcEjdLQPeAwncWomLEmXJLPsObPpXHagfiZD.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00338_00-JAKANDDAXTER0001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_260" attr="psnstuff_PSN_EU_link_260"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_261_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_261">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4249/NPEB01240_00/itQfgdNjlCExRTSeneqBCgkSkPXCOQWyVFHsgZhNtIbhOsWNprqqHlkpUVGfFBHD.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4249/NPEB01240_00/itQfgdNjlCExRTSeneqBCgkSkPXCOQWyVFHsgZhNtIbhOsWNprqqHlkpUVGfFBHD.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4249-NPEB01240_00-JETPACKJOYRIDE00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_261" attr="psnstuff_PSN_EU_link_261"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_262_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_262">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2034/NPEB00205_00/vFdfO39nfvQO8OqOtt9rbJY4DvXMNvtbefkl8sXn1U6gsFfS0Ti74nSiBN2q8F5L6q0Ojw2uWdvtyOQBs1OPY74QGlgA6AjrEb7LE.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2034/NPEB00205_00/vFdfO39nfvQO8OqOtt9rbJY4DvXMNvtbefkl8sXn1U6gsFfS0Ti74nSiBN2q8F5L6q0Ojw2uWdvtyOQBs1OPY74QGlgA6AjrEb7LE.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2034-NPEB00205_00-JOEDANGERHG00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_262" attr="psnstuff_PSN_EU_link_262"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_263_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_263">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0700/NPEB01922_00/iXvJjGgzlmXsEjigzxgmtplCcxmUOViWDugrnVGcFdCThjhwHhaJGFuxnIQdTOAm.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0700/NPEB01922_00/iXvJjGgzlmXsEjigzxgmtplCcxmUOViWDugrnVGcFdCThjhwHhaJGFuxnIQdTOAm.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0700-NPEB01922_00-DLG00000000ASB01</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_263" attr="psnstuff_PSN_EU_link_263"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_264_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_264">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00288_00/uNRDNYOTrWmzPwoRWRnMlHoGnSdOvmAuAJxXUVhrbWgEEbfxtTZxCLsthDDeVmVz.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00288_00/uNRDNYOTrWmzPwoRWRnMlHoGnSdOvmAuAJxXUVhrbWgEEbfxtTZxCLsthDDeVmVz.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00288_00-JOURNEYYYPRIVATE</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_264" attr="psnstuff_PSN_EU_link_264"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_265_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_265">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4008/NPEB00866_00/KWcxxUPXsuWeBKZSiaVTxaeUQxpGvbHTCtFuHhrJlmORFkfrazpCnEoemeyIzAeE.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4008/NPEB00866_00/KWcxxUPXsuWeBKZSiaVTxaeUQxpGvbHTCtFuHhrJlmORFkfrazpCnEoemeyIzAeE.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4008-NPEB00866_00-JUDGEDEETHECITYG</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_265" attr="psnstuff_PSN_EU_link_265"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_266_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_266">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4517/NPEB02130_00/dqavaGKTfeWfptNHtbCcmEkOJOlQYJkpyyKOsPikZgytzEHfZEHFPLDVJdxloBnt.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4517/NPEB02130_00/dqavaGKTfeWfptNHtbCcmEkOJOlQYJkpyyKOsPikZgytzEHfZEHFPLDVJdxloBnt.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4517-NPEB02130_00-JUJU00000000SCEE</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_266" attr="psnstuff_PSN_EU_link_266"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_267_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_267">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB00751_00/TNYydhKyQdcHlAEiDimJYftahOeapHDTIoSLmnFFsIYCUAXfzwUgUTiHAAfFiZeb.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB00751_00/TNYydhKyQdcHlAEiDimJYftahOeapHDTIoSLmnFFsIYCUAXfzwUgUTiHAAfFiZeb.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0082-NPEB00751_00-JUSTCAUSE2PSNVER</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_267" attr="psnstuff_PSN_EU_link_267"/>
+        </Items>
+    </View>
+</XMBML>

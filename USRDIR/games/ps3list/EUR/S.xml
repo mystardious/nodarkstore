@@ -1,0 +1,2249 @@
+<XMBML version="1.0">
+<View id="S_games">
+<Attributes>
+<Table key="psnstuff_PSN_EU_item_489">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sackboys Prehistoric Moves.png</String></Pair>
+                <Pair key="title"><String>Sackboys Prehistoric Moves</String></Pair>
+                <Pair key="info"><String>NPEA00243 - 1068.05 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_490">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>Sacra Terra: Kiss of Death</String></Pair>
+                <Pair key="info"><String>NPEB02048 - 1189.56 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_491">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>Sacred 3</String></Pair>
+                <Pair key="info"><String>NPEB02004 - 6935.36 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_492">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>Saint Seiya: Brave Soldiers</String></Pair>
+                <Pair key="info"><String>NPEB01814 - 3073.64 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_493">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Saints Row 2.png</String></Pair>
+                <Pair key="title"><String>Saints Row 2</String></Pair>
+                <Pair key="info"><String>NPEB00637 - 7184.93 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_494">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Saints Row 2.png</String></Pair>
+                <Pair key="title"><String>Saints Row 2</String></Pair>
+                <Pair key="info"><String>NPEB00638 - 7158.43 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_495">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Saints Row 3.png</String></Pair>
+                <Pair key="title"><String>Saints Row 3</String></Pair>
+                <Pair key="info"><String>NPEB00888 - 7331.91 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_496">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Saints Row 3 -.png</String></Pair>
+                <Pair key="title"><String>Saints Row 3 -</String></Pair>
+                <Pair key="info"><String>NPEB00890 - 7332.12 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_497">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Saints Row IV.png</String></Pair>
+                <Pair key="title"><String>Saints Row IV</String></Pair>
+                <Pair key="info"><String>NPEB01404 - 6993.08 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_498">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sam and Max - The Devils Playhouse Episode 2.png</String></Pair>
+                <Pair key="title"><String>Sam and Max - The Devils Playhouse Episode 2</String></Pair>
+                <Pair key="info"><String>NPEB00214 - 483.64 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_499">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sam and Max - The Devils Playhouse Episode 3.png</String></Pair>
+                <Pair key="title"><String>Sam and Max - The Devils Playhouse Episode 3</String></Pair>
+                <Pair key="info"><String>NPEB00215 - 410.86 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_500">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sam and Max - The Devils Playhouse Episode 4.png</String></Pair>
+                <Pair key="title"><String>Sam and Max - The Devils Playhouse Episode 4</String></Pair>
+                <Pair key="info"><String>NPEB00216 - 375.21 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_501">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sam and Max - The Devils Playhouse Episode 5.png</String></Pair>
+                <Pair key="title"><String>Sam and Max - The Devils Playhouse Episode 5</String></Pair>
+                <Pair key="info"><String>NPEB00218 - 364.25 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_502">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>SAMURAI SHODOWN</String></Pair>
+                <Pair key="info"><String>NPEB00247 - 64.64 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_503">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>SAMURAI WARRIORS 4</String></Pair>
+                <Pair key="info"><String>NPEB02062 - 11541.26 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_504">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Savage Moon.png</String></Pair>
+                <Pair key="title"><String>Savage Moon</String></Pair>
+                <Pair key="info"><String>NPEA00104 - 257.04 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_505">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/SBK Generations.png</String></Pair>
+                <Pair key="title"><String>SBK Generations</String></Pair>
+                <Pair key="info"><String>NPEB01019 - 2723.07 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_506">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>Sega Bass Fishing</String></Pair>
+                <Pair key="info"><String>NPEB00351 - 397.21 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_507">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/SEGA Classics - Golden Axe I.png</String></Pair>
+                <Pair key="title"><String>SEGA Classics - Golden Axe I</String></Pair>
+                <Pair key="info"><String>NPEB00509 - 35.76 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_508">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/SEGA Classics - Sonic I.png</String></Pair>
+                <Pair key="title"><String>SEGA Classics - Sonic I</String></Pair>
+                <Pair key="info"><String>NPEB00478 - 33.33 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_509">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/SEGA Classics - Sonic II.png</String></Pair>
+                <Pair key="title"><String>SEGA Classics - Sonic II</String></Pair>
+                <Pair key="info"><String>NPEB00477 - 33.80 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_510">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/SEGA Classics - Streets of Rage II.png</String></Pair>
+                <Pair key="title"><String>SEGA Classics - Streets of Rage II</String></Pair>
+                <Pair key="info"><String>NPEB00508 - 35.39 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_511">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Shadow of the Collossus HD.png</String></Pair>
+                <Pair key="title"><String>Shadow of the Collossus HD</String></Pair>
+                <Pair key="info"><String>NPEA00280 - 6159.16 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_512">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>SHAKE SPEARS</String></Pair>
+                <Pair key="info"><String>NPEB01426 - 84.21 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_513">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Shake Spears!.png</String></Pair>
+                <Pair key="title"><String>Shake Spears!</String></Pair>
+                <Pair key="info"><String>NPEB01426 - 84.21 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_514">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Shatter.png</String></Pair>
+                <Pair key="title"><String>Shatter</String></Pair>
+                <Pair key="info"><String>NPEB00118 - 194.25 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_515">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Shaun White Snowboarding.png</String></Pair>
+                <Pair key="title"><String>Shaun White Snowboarding</String></Pair>
+                <Pair key="info"><String>NPEB01173 - 3933.27 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_516">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sherlock Holmes - Crimes & Punishments.png</String></Pair>
+                <Pair key="title"><String>Sherlock Holmes: Crimes & Punishments</String></Pair>
+                <Pair key="info"><String>NPEB01959 - 3529.91 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_517">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>Siren Blood Curse</String></Pair>
+                <Pair key="info"><String>NPEA00095 - 1061.50 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_518">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Siren - Blood Curse - Episode 1.png</String></Pair>
+                <Pair key="title"><String>Siren: Blood Curse - Episode 1</String></Pair>
+                <Pair key="info"><String>NPEA00095 - 1053.54 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_519">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sky Fighter.png</String></Pair>
+                <Pair key="title"><String>Sky Fighter</String></Pair>
+                <Pair key="info"><String>NPEB00192 - 134.59 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_520">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sleeping Dogs.png</String></Pair>
+                <Pair key="title"><String>Sleeping Dogs</String></Pair>
+                <Pair key="info"><String>NPEB01046 - 7115.67 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_521">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sly 2 - Band of Thieves.png</String></Pair>
+                <Pair key="title"><String>Sly 2 - Band of Thieves</String></Pair>
+                <Pair key="info"><String>NPEA00342 - 7266.47 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_522">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sly 3 - Honor among Thieves.png</String></Pair>
+                <Pair key="title"><String>Sly 3 - Honor among Thieves</String></Pair>
+                <Pair key="info"><String>NPEA00343 - 10550.56 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_523">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sly Cooper - Thieves in Time.png</String></Pair>
+                <Pair key="title"><String>Sly Cooper - Thieves in Time</String></Pair>
+                <Pair key="info"><String>NPEA00429 - 18923.95 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_524">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sly Cooper and the Thievius Raccoonus.png</String></Pair>
+                <Pair key="title"><String>Sly Cooper and the Thievius Raccoonus</String></Pair>
+                <Pair key="info"><String>NPEA00341 - 5329.08 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_525">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Smash Cars.png</String></Pair>
+                <Pair key="title"><String>Smash Cars</String></Pair>
+                <Pair key="info"><String>NPEB00119 - 343.95 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_526">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Smash N Survive.png</String></Pair>
+                <Pair key="title"><String>Smash N Survive</String></Pair>
+                <Pair key="info"><String>NPEB00765 - 1856.03 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_527">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sniper Elite V2.png</String></Pair>
+                <Pair key="title"><String>Sniper Elite V2</String></Pair>
+                <Pair key="info"><String>NPEB01009 - 3695.29 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_528">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sniper Ghost Warrior 2.png</String></Pair>
+                <Pair key="title"><String>Sniper Ghost Warrior 2</String></Pair>
+                <Pair key="info"><String>NPEB01002 - 3570.44 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_529">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Soldner-X 2 Final Prototype.png</String></Pair>
+                <Pair key="title"><String>Soldner-X 2 Final Prototype</String></Pair>
+                <Pair key="info"><String>NPEB00177 - 1528.22 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_530">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Soldner-X Himmelssturmer.png</String></Pair>
+                <Pair key="title"><String>Soldner-X Himmelssturmer</String></Pair>
+                <Pair key="info"><String>NPEB00074 - 844.89 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_531">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sonic Adventure.png</String></Pair>
+                <Pair key="title"><String>Sonic Adventure</String></Pair>
+                <Pair key="info"><String>NPEB00304 - 1554.26 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_532">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>SONIC ADVENTURE 2</String></Pair>
+                <Pair key="info"><String>NPEB00856 - 3133.75 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_533">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sonic Generations.png</String></Pair>
+                <Pair key="title"><String>Sonic Generations</String></Pair>
+                <Pair key="info"><String>NPEB00813 - 8703.37 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_534">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sonic the Fighters.png</String></Pair>
+                <Pair key="title"><String>Sonic the Fighters</String></Pair>
+                <Pair key="info"><String>NPEB01162 - 86.77 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_535">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sonic The Hedgehog 4 Episode 1.png</String></Pair>
+                <Pair key="title"><String>Sonic The Hedgehog 4 Episode 1</String></Pair>
+                <Pair key="info"><String>NPEB00153 - 196.27 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_536">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sonic The Hedgehog 4 Episode 2.png</String></Pair>
+                <Pair key="title"><String>Sonic The Hedgehog 4 Episode 2</String></Pair>
+                <Pair key="info"><String>NPEB00717 - 418.86 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_537">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>Sonic Unleashed</String></Pair>
+                <Pair key="info"><String>NPEB01347 - 7814.49 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_538">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Soul Calibur - Lost Swords.png</String></Pair>
+                <Pair key="title"><String>Soul Calibur - Lost Swords</String></Pair>
+                <Pair key="info"><String>NPEB01827 - 3453.95 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_539">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Soul Calibur 5.png</String></Pair>
+                <Pair key="title"><String>Soul Calibur 5</String></Pair>
+                <Pair key="info"><String>NPEB01363 - 6971.97 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_540">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/SoulCalibur 2 HD Online.png</String></Pair>
+                <Pair key="title"><String>SoulCalibur 2 HD Online</String></Pair>
+                <Pair key="info"><String>NPEB01828 - 668.00 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_541">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sound Shapes.png</String></Pair>
+                <Pair key="title"><String>Sound Shapes</String></Pair>
+                <Pair key="info"><String>NPEA00289 - 1086.80 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_542">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>South Park: The Stick of Truth.</String></Pair>
+                <Pair key="info"><String>NPEB01125 - 3669.97 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_543">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Spec Ops - The Line.png</String></Pair>
+                <Pair key="title"><String>Spec Ops - The Line</String></Pair>
+                <Pair key="info"><String>NPEB00986 - 5885.94 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_544">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>SPELUNKER HD</String></Pair>
+                <Pair key="info"><String>NPEB00469 - 794.70 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_545">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Splinter Cell - Pandora Tomorrow HD.png</String></Pair>
+                <Pair key="title"><String>Splinter Cell - Pandora Tomorrow HD</String></Pair>
+                <Pair key="info"><String>NPEB00528 - 2984.62 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_546">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Splinter Cell Chaos Theory HD.png</String></Pair>
+                <Pair key="title"><String>Splinter Cell Chaos Theory HD</String></Pair>
+                <Pair key="info"><String>NPEB00557 - 4915.97 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_547">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Splinter Cell HD.png</String></Pair>
+                <Pair key="title"><String>Splinter Cell HD</String></Pair>
+                <Pair key="info"><String>NPEB00527 - 2591.45 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_548">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sports Champions.png</String></Pair>
+                <Pair key="title"><String>Sports Champions</String></Pair>
+                <Pair key="info"><String>NPEA00370 - 11969.87 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_549">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Sportsfriends.png</String></Pair>
+                <Pair key="title"><String>Sportsfriends</String></Pair>
+                <Pair key="info"><String>NPEB01996 - 394.90 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_550">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/SSX.png</String></Pair>
+                <Pair key="title"><String>SSX</String></Pair>
+                <Pair key="info"><String>NPEB01121 - 3979.63 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_551">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Starhawk.png</String></Pair>
+                <Pair key="title"><String>Starhawk</String></Pair>
+                <Pair key="info"><String>NPEA00410 - 9356.55 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_552">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>Starhawk Online Beta</String></Pair>
+                <Pair key="info"><String>BCET70036 - 1300.65 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_553">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>STARWHAL</String></Pair>
+                <Pair key="info"><String>NPEB02251 - 385.13 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_554">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Stealth Inc 2 - A Game of Clones.png</String></Pair>
+                <Pair key="title"><String>Stealth Inc 2: A Game of Clones</String></Pair>
+                <Pair key="info"><String>NPEB02181 - 282.14 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_555">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Stealth Inc A Clone in the Dark.png</String></Pair>
+                <Pair key="title"><String>Stealth Inc A Clone in the Dark</String></Pair>
+                <Pair key="info"><String>NPEB01358 - 264.37 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_556">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>Stick it to the Man</String></Pair>
+                <Pair key="info"><String>NPEB01798 - 1102.69 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_557">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Street Fighter X TEKKEN.png</String></Pair>
+                <Pair key="title"><String>Street Fighter X TEKKEN</String></Pair>
+                <Pair key="info"><String>NPEB01792 - 13021.13 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_558">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Strength of the Sword.png</String></Pair>
+                <Pair key="title"><String>Strength of the Sword</String></Pair>
+                <Pair key="info"><String>NPEB01269 - 385.99 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_559">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>Super Motherload</String></Pair>
+                <Pair key="info"><String>NPEB01866 - 341.06 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_560">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Super Puzzle Fighter 2 TURBO HD REMIX.png</String></Pair>
+                <Pair key="title"><String>Super Puzzle Fighter 2 TURBO HD REMIX</String></Pair>
+                <Pair key="info"><String>NPEB00020 - 52.74 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_561">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/SUPER STARDUST HD.png</String></Pair>
+                <Pair key="title"><String>SUPER STARDUST HD</String></Pair>
+                <Pair key="info"><String>NPEA00014 - 273.96 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_562">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/SUPER STARDUST HD.png</String></Pair>
+                <Pair key="title"><String>SUPER STARDUST HD</String></Pair>
+                <Pair key="info"><String>NPEA00014 - 298.95 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_563">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>Super Street Fighter 2 Turbo HD Remix</String></Pair>
+                <Pair key="info"><String>NPEB00036 - 302.03 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_564">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+                <Pair key="title"><String>Supercar Challenge Beta</String></Pair>
+                <Pair key="info"><String>BLET70001 - 511.56 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_565">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Superfrog HD.png</String></Pair>
+                <Pair key="title"><String>Superfrog HD</String></Pair>
+                <Pair key="info"><String>NPEB01316 - 69.18 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_566">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Supersonic Acrobatic Rocket - Powered Battle Cars.png</String></Pair>
+                <Pair key="title"><String>Supersonic Acrobatic Rocket - Powered Battle Cars</String></Pair>
+                <Pair key="info"><String>NPEB00062 - 179.07 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_567">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Syberia.png</String></Pair>
+                <Pair key="title"><String>Syberia</String></Pair>
+                <Pair key="info"><String>NPEB01976 - 1857.49 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="psnstuff_PSN_EU_item_568">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Syberia II.png</String></Pair>
+                <Pair key="title"><String>Syberia II</String></Pair>
+                <Pair key="info"><String>NPEB02016 - 1333.61 Mb</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+</Attributes>
+
+<Items>
+<Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_489"
+                attr="psnstuff_PSN_EU_item_489"
+                src="#psnstuff_PSN_EU_item_489_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_490"
+                attr="psnstuff_PSN_EU_item_490"
+                src="#psnstuff_PSN_EU_item_490_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_491"
+                attr="psnstuff_PSN_EU_item_491"
+                src="#psnstuff_PSN_EU_item_491_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_492"
+                attr="psnstuff_PSN_EU_item_492"
+                src="#psnstuff_PSN_EU_item_492_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_493"
+                attr="psnstuff_PSN_EU_item_493"
+                src="#psnstuff_PSN_EU_item_493_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_494"
+                attr="psnstuff_PSN_EU_item_494"
+                src="#psnstuff_PSN_EU_item_494_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_495"
+                attr="psnstuff_PSN_EU_item_495"
+                src="#psnstuff_PSN_EU_item_495_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_496"
+                attr="psnstuff_PSN_EU_item_496"
+                src="#psnstuff_PSN_EU_item_496_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_497"
+                attr="psnstuff_PSN_EU_item_497"
+                src="#psnstuff_PSN_EU_item_497_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_498"
+                attr="psnstuff_PSN_EU_item_498"
+                src="#psnstuff_PSN_EU_item_498_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_499"
+                attr="psnstuff_PSN_EU_item_499"
+                src="#psnstuff_PSN_EU_item_499_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_500"
+                attr="psnstuff_PSN_EU_item_500"
+                src="#psnstuff_PSN_EU_item_500_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_501"
+                attr="psnstuff_PSN_EU_item_501"
+                src="#psnstuff_PSN_EU_item_501_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_502"
+                attr="psnstuff_PSN_EU_item_502"
+                src="#psnstuff_PSN_EU_item_502_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_503"
+                attr="psnstuff_PSN_EU_item_503"
+                src="#psnstuff_PSN_EU_item_503_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_504"
+                attr="psnstuff_PSN_EU_item_504"
+                src="#psnstuff_PSN_EU_item_504_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_505"
+                attr="psnstuff_PSN_EU_item_505"
+                src="#psnstuff_PSN_EU_item_505_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_506"
+                attr="psnstuff_PSN_EU_item_506"
+                src="#psnstuff_PSN_EU_item_506_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_507"
+                attr="psnstuff_PSN_EU_item_507"
+                src="#psnstuff_PSN_EU_item_507_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_508"
+                attr="psnstuff_PSN_EU_item_508"
+                src="#psnstuff_PSN_EU_item_508_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_509"
+                attr="psnstuff_PSN_EU_item_509"
+                src="#psnstuff_PSN_EU_item_509_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_510"
+                attr="psnstuff_PSN_EU_item_510"
+                src="#psnstuff_PSN_EU_item_510_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_511"
+                attr="psnstuff_PSN_EU_item_511"
+                src="#psnstuff_PSN_EU_item_511_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_512"
+                attr="psnstuff_PSN_EU_item_512"
+                src="#psnstuff_PSN_EU_item_512_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_513"
+                attr="psnstuff_PSN_EU_item_513"
+                src="#psnstuff_PSN_EU_item_513_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_514"
+                attr="psnstuff_PSN_EU_item_514"
+                src="#psnstuff_PSN_EU_item_514_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_515"
+                attr="psnstuff_PSN_EU_item_515"
+                src="#psnstuff_PSN_EU_item_515_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_516"
+                attr="psnstuff_PSN_EU_item_516"
+                src="#psnstuff_PSN_EU_item_516_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_517"
+                attr="psnstuff_PSN_EU_item_517"
+                src="#psnstuff_PSN_EU_item_517_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_518"
+                attr="psnstuff_PSN_EU_item_518"
+                src="#psnstuff_PSN_EU_item_518_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_519"
+                attr="psnstuff_PSN_EU_item_519"
+                src="#psnstuff_PSN_EU_item_519_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_520"
+                attr="psnstuff_PSN_EU_item_520"
+                src="#psnstuff_PSN_EU_item_520_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_521"
+                attr="psnstuff_PSN_EU_item_521"
+                src="#psnstuff_PSN_EU_item_521_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_522"
+                attr="psnstuff_PSN_EU_item_522"
+                src="#psnstuff_PSN_EU_item_522_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_523"
+                attr="psnstuff_PSN_EU_item_523"
+                src="#psnstuff_PSN_EU_item_523_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_524"
+                attr="psnstuff_PSN_EU_item_524"
+                src="#psnstuff_PSN_EU_item_524_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_525"
+                attr="psnstuff_PSN_EU_item_525"
+                src="#psnstuff_PSN_EU_item_525_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_526"
+                attr="psnstuff_PSN_EU_item_526"
+                src="#psnstuff_PSN_EU_item_526_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_527"
+                attr="psnstuff_PSN_EU_item_527"
+                src="#psnstuff_PSN_EU_item_527_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_528"
+                attr="psnstuff_PSN_EU_item_528"
+                src="#psnstuff_PSN_EU_item_528_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_529"
+                attr="psnstuff_PSN_EU_item_529"
+                src="#psnstuff_PSN_EU_item_529_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_530"
+                attr="psnstuff_PSN_EU_item_530"
+                src="#psnstuff_PSN_EU_item_530_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_531"
+                attr="psnstuff_PSN_EU_item_531"
+                src="#psnstuff_PSN_EU_item_531_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_532"
+                attr="psnstuff_PSN_EU_item_532"
+                src="#psnstuff_PSN_EU_item_532_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_533"
+                attr="psnstuff_PSN_EU_item_533"
+                src="#psnstuff_PSN_EU_item_533_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_534"
+                attr="psnstuff_PSN_EU_item_534"
+                src="#psnstuff_PSN_EU_item_534_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_535"
+                attr="psnstuff_PSN_EU_item_535"
+                src="#psnstuff_PSN_EU_item_535_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_536"
+                attr="psnstuff_PSN_EU_item_536"
+                src="#psnstuff_PSN_EU_item_536_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_537"
+                attr="psnstuff_PSN_EU_item_537"
+                src="#psnstuff_PSN_EU_item_537_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_538"
+                attr="psnstuff_PSN_EU_item_538"
+                src="#psnstuff_PSN_EU_item_538_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_539"
+                attr="psnstuff_PSN_EU_item_539"
+                src="#psnstuff_PSN_EU_item_539_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_540"
+                attr="psnstuff_PSN_EU_item_540"
+                src="#psnstuff_PSN_EU_item_540_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_541"
+                attr="psnstuff_PSN_EU_item_541"
+                src="#psnstuff_PSN_EU_item_541_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_542"
+                attr="psnstuff_PSN_EU_item_542"
+                src="#psnstuff_PSN_EU_item_542_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_543"
+                attr="psnstuff_PSN_EU_item_543"
+                src="#psnstuff_PSN_EU_item_543_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_544"
+                attr="psnstuff_PSN_EU_item_544"
+                src="#psnstuff_PSN_EU_item_544_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_545"
+                attr="psnstuff_PSN_EU_item_545"
+                src="#psnstuff_PSN_EU_item_545_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_546"
+                attr="psnstuff_PSN_EU_item_546"
+                src="#psnstuff_PSN_EU_item_546_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_547"
+                attr="psnstuff_PSN_EU_item_547"
+                src="#psnstuff_PSN_EU_item_547_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_548"
+                attr="psnstuff_PSN_EU_item_548"
+                src="#psnstuff_PSN_EU_item_548_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_549"
+                attr="psnstuff_PSN_EU_item_549"
+                src="#psnstuff_PSN_EU_item_549_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_550"
+                attr="psnstuff_PSN_EU_item_550"
+                src="#psnstuff_PSN_EU_item_550_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_551"
+                attr="psnstuff_PSN_EU_item_551"
+                src="#psnstuff_PSN_EU_item_551_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_552"
+                attr="psnstuff_PSN_EU_item_552"
+                src="#psnstuff_PSN_EU_item_552_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_553"
+                attr="psnstuff_PSN_EU_item_553"
+                src="#psnstuff_PSN_EU_item_553_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_554"
+                attr="psnstuff_PSN_EU_item_554"
+                src="#psnstuff_PSN_EU_item_554_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_555"
+                attr="psnstuff_PSN_EU_item_555"
+                src="#psnstuff_PSN_EU_item_555_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_556"
+                attr="psnstuff_PSN_EU_item_556"
+                src="#psnstuff_PSN_EU_item_556_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_557"
+                attr="psnstuff_PSN_EU_item_557"
+                src="#psnstuff_PSN_EU_item_557_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_558"
+                attr="psnstuff_PSN_EU_item_558"
+                src="#psnstuff_PSN_EU_item_558_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_559"
+                attr="psnstuff_PSN_EU_item_559"
+                src="#psnstuff_PSN_EU_item_559_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_560"
+                attr="psnstuff_PSN_EU_item_560"
+                src="#psnstuff_PSN_EU_item_560_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_561"
+                attr="psnstuff_PSN_EU_item_561"
+                src="#psnstuff_PSN_EU_item_561_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_562"
+                attr="psnstuff_PSN_EU_item_562"
+                src="#psnstuff_PSN_EU_item_562_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_563"
+                attr="psnstuff_PSN_EU_item_563"
+                src="#psnstuff_PSN_EU_item_563_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_564"
+                attr="psnstuff_PSN_EU_item_564"
+                src="#psnstuff_PSN_EU_item_564_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_565"
+                attr="psnstuff_PSN_EU_item_565"
+                src="#psnstuff_PSN_EU_item_565_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_566"
+                attr="psnstuff_PSN_EU_item_566"
+                src="#psnstuff_PSN_EU_item_566_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_567"
+                attr="psnstuff_PSN_EU_item_567"
+                src="#psnstuff_PSN_EU_item_567_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU_item_568"
+                attr="psnstuff_PSN_EU_item_568"
+                src="#psnstuff_PSN_EU_item_568_link"
+            />
+</Items>
+</View>
+
+<View id="psnstuff_PSN_EU_item_489_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_489">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00243_00/EOReyCTyryUdWxLMAOrxFcoGHKzGOpDeHqWlspGJMyIxivvWJnCRJLpzqLvdmHpL.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00243_00/EOReyCTyryUdWxLMAOrxFcoGHKzGOpDeHqWlspGJMyIxivvWJnCRJLpzqLvdmHpL.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00243_00-GLBPPACKAGE00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_489" attr="psnstuff_PSN_EU_link_489"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_490_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_490">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4173/NPEB02048_00/SVjpqJCOnAVcOvIuOOkGctXasThRPOUOwWnNxbmSyfsoewIWeKSQpOIbHyviMKxe.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4173/NPEB02048_00/SVjpqJCOnAVcOvIuOOkGctXasThRPOUOwWnNxbmSyfsoewIWeKSQpOIbHyviMKxe.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4173-NPEB02048_00-SACRATERRA000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_490" attr="psnstuff_PSN_EU_link_490"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_491_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_491">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4062/NPEB02004_00/NUeEqwDxGPXXrOYkyHnzhTsTgbTZjAUWGOoIgCZJJjaDBTxcluhzhMSPtqzTwKQE.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4062/NPEB02004_00/NUeEqwDxGPXXrOYkyHnzhTsTgbTZjAUWGOoIgCZJJjaDBTxcluhzhMSPtqzTwKQE.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4062-NPEB02004_00-SACRED3GAMEHDD01</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_491" attr="psnstuff_PSN_EU_link_491"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_492_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_492">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0700/NPEB01814_00/qhjvKQVVHDClrLuGvXXpLDHEOmFaAuWxOONxKIOjtiNTcoBcGvrwicYytfTEqaNg.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0700/NPEB01814_00/qhjvKQVVHDClrLuGvXXpLDHEOmFaAuWxOONxKIOjtiNTcoBcGvrwicYytfTEqaNg.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0700-NPEB01814_00-SAINTSEIYABSHGEU</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_492" attr="psnstuff_PSN_EU_link_492"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_493_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_493">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1005/NPEB00637_00/ZjCEHTlhDYGmndCxnjreWdlmPNpwsZdoKTdUMEkHhhNbIRuMVdvMPaLQRfziMsiN.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1005/NPEB00637_00/ZjCEHTlhDYGmndCxnjreWdlmPNpwsZdoKTdUMEkHhhNbIRuMVdvMPaLQRfziMsiN.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1005-NPEB00637_00-SAINTSRW2DIGITAL</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_493" attr="psnstuff_PSN_EU_link_493"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_494_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_494">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1005/NPEB00638_00/NUVNMFmAByGFTyBkktUlSHDnqHaqaVWTuMnzYUBAJUduyFHPBJRVHAEvQUhxaZhm.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1005/NPEB00638_00/NUVNMFmAByGFTyBkktUlSHDnqHaqaVWTuMnzYUBAJUduyFHPBJRVHAEvQUhxaZhm.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1005-NPEB00638_00-SAINTSRW2DIGITAL</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_494" attr="psnstuff_PSN_EU_link_494"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_495_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_495">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1005/NPEB00888_00/PGdeMZgNjDhaoYHEJnpstDFAUMfjykBfkTEgXjnzUTluFeFjzraFgOXWjxgoCIUG.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1005/NPEB00888_00/PGdeMZgNjDhaoYHEJnpstDFAUMfjykBfkTEgXjnzUTluFeFjzraFgOXWjxgoCIUG.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1005-NPEB00888_00-SAINTSROWTHIRD01</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_495" attr="psnstuff_PSN_EU_link_495"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_496_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_496">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1005/NPEB00890_00/kpMqpuKhNyQLXGreThjbqYyZBFlhIpkvbMEwgragJfYGLOcFzOFwjIvDrGPnuOSz.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1005/NPEB00890_00/kpMqpuKhNyQLXGreThjbqYyZBFlhIpkvbMEwgragJfYGLOcFzOFwjIvDrGPnuOSz.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1005-NPEB00890_00-SAINTSROWTHIRD01</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_496" attr="psnstuff_PSN_EU_link_496"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_497_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_497">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4062/NPEB01404_00/zpAdqdZCuLNBFQDIRRUfmEzyNhTxDgMYWJLVMZmeWApSooFouxgocWoIrsfyiOGiqfiDGzsfWYaQUGiTHqEvntMHXcDxbDTRBRuMj.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4062/NPEB01404_00/zpAdqdZCuLNBFQDIRRUfmEzyNhTxDgMYWJLVMZmeWApSooFouxgocWoIrsfyiOGiqfiDGzsfWYaQUGiTHqEvntMHXcDxbDTRBRuMj.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4062-NPEB01404_00-SAINTSROWFOUR001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_497" attr="psnstuff_PSN_EU_link_497"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_498_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_498">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2026/NPEB00214_00/5aWv86XP7rIRsNqQvsg7UhXdbA80djK8WE9cIr1BhwkBepptuh576aFWaUs6Jk4XPNrBs5NNt9wwx7VwSND55bUM064LoGS69CeYc.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2026/NPEB00214_00/5aWv86XP7rIRsNqQvsg7UhXdbA80djK8WE9cIr1BhwkBepptuh576aFWaUs6Jk4XPNrBs5NNt9wwx7VwSND55bUM064LoGS69CeYc.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2026-NPEB00214_00-SAM302000000GAME</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_498" attr="psnstuff_PSN_EU_link_498"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_499_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_499">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2026/NPEB00215_00/DHQ5BWqlH9yBY0hg4BVsNvbqvdkiCYsSQy7WjLcD8BRUvWEJH4mblgjTAPxEpNl8bgQeL8J1hJhh8VreD83jRUt08aji8Ol8iuFEm.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2026/NPEB00215_00/DHQ5BWqlH9yBY0hg4BVsNvbqvdkiCYsSQy7WjLcD8BRUvWEJH4mblgjTAPxEpNl8bgQeL8J1hJhh8VreD83jRUt08aji8Ol8iuFEm.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2026-NPEB00215_00-SAM303000000GAME</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_499" attr="psnstuff_PSN_EU_link_499"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_500_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_500">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2026/NPEB00216_00/nFFddRerG2ptyB86dayhANptIfyfH8B8UEjHHE2NhaeBxXSjxBfjwE30CbT5Kcmr.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2026/NPEB00216_00/nFFddRerG2ptyB86dayhANptIfyfH8B8UEjHHE2NhaeBxXSjxBfjwE30CbT5Kcmr.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2026-NPEB00216_00-SAM304000000GAME</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_500" attr="psnstuff_PSN_EU_link_500"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_501_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_501">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2026/NPEB00218_00/2L2eXgHrAnHPNj3dBwXKRjec0oWwAJwKKcOqQYDdvB6uMXTKpYwiKO6ykspaQmCi.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2026/NPEB00218_00/2L2eXgHrAnHPNj3dBwXKRjec0oWwAJwKKcOqQYDdvB6uMXTKpYwiKO6ykspaQmCi.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2026-NPEB00218_00-SAM305000000GAME</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_501" attr="psnstuff_PSN_EU_link_501"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_502_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_502">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0576/NPEB00247_00/JwGbZKZdQztvgsQHzttVfmZVBAzmJUQEaedJLLEDnDtjLiKqPakNGkFZTSmycsqO.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0576/NPEB00247_00/JwGbZKZdQztvgsQHzttVfmZVBAzmJUQEaedJLLEDnDtjLiKqPakNGkFZTSmycsqO.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0576-NPEB00247_00-NEOGEOSTATION002</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_502" attr="psnstuff_PSN_EU_link_502"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_503_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_503">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4108/NPEB02062_00/CIeshLWfmdcOhtwRqZrXcxtwlWAnTeTDQtXMrfJNALFFFwcMKiKFXCJDfwCMNIic.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4108/NPEB02062_00/CIeshLWfmdcOhtwRqZrXcxtwlWAnTeTDQtXMrfJNALFFFwcMKiKFXCJDfwCMNIic.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4108-NPEB02062_00-HGEXEC0000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_503" attr="psnstuff_PSN_EU_link_503"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_504_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_504">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00104_00/JHO6vAk72P2pmMOqabJxdOOqKKt5jGE7xlK4qMqlSDPDS8s3Jwd0Gk5noXl5lpvBjTJe1DvmdOOr9o9u8VQA2FhELRDphm3NQQUfk.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00104_00/JHO6vAk72P2pmMOqabJxdOOqKKt5jGE7xlK4qMqlSDPDS8s3Jwd0Gk5noXl5lpvBjTJe1DvmdOOr9o9u8VQA2FhELRDphm3NQQUfk.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00104_00-GSAVAGEMOO000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_504" attr="psnstuff_PSN_EU_link_504"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_505_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_505">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4356/NPEB01019_00/zSyDSYqmjwCscoZIWaeFZCahkdHoaIhOctQCCJoAfOBTyJwooPVvOSRHvcCwuhhX.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4356/NPEB01019_00/zSyDSYqmjwCscoZIWaeFZCahkdHoaIhOctQCCJoAfOBTyJwooPVvOSRHvcCwuhhX.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4356-NPEB01019_00-SBKGENERATIONS00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_505" attr="psnstuff_PSN_EU_link_505"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_506_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_506">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00351_00/CxawDDxnXknySXuLmwvMfLgYAqaoHcxuBYIiOJRfhOhbMHDolZasECznGaOHeMTr.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00351_00/CxawDDxnXknySXuLmwvMfLgYAqaoHcxuBYIiOJRfhOhbMHDolZasECznGaOHeMTr.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0177-NPEB00351_00-DCCBASSFISHING00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_506" attr="psnstuff_PSN_EU_link_506"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_507_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_507">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00509_00/DuJRIyWsyGoiMLhbVyeqlBlcvqnFqkBNZkvpPTCxpcwyYwCGNycVVjCbkTqtNkaB.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00509_00/DuJRIyWsyGoiMLhbVyeqlBlcvqnFqkBNZkvpPTCxpcwyYwCGNycVVjCbkTqtNkaB.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0177-NPEB00509_00-SVCGOLDENAXE16XX</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_507" attr="psnstuff_PSN_EU_link_507"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_508_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_508">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00478_00/tCLppnTViDTdWDJQrQMiQVNehaJrzyrSiezbPgBxtQBjidMhTbonbKhIoyiBnKLF.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00478_00/tCLppnTViDTdWDJQrQMiQVNehaJrzyrSiezbPgBxtQBjidMhTbonbKhIoyiBnKLF.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0177-NPEB00478_00-SVCSONICHEDGEHOG</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_508" attr="psnstuff_PSN_EU_link_508"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_509_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_509">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00477_00/QghLBbtyWFOfIrdmpkHnsYvIzkoUZBcYGKIULWVTHtXFCYLgwxAoynrLvAVDfUem.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00477_00/QghLBbtyWFOfIrdmpkHnsYvIzkoUZBcYGKIULWVTHtXFCYLgwxAoynrLvAVDfUem.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0177-NPEB00477_00-SVCSONIC2XXXXXXX</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_509" attr="psnstuff_PSN_EU_link_509"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_510_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_510">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00508_00/HZOTroYbDNlPZDcrYzYrwcJUIowPizvHndpdIuXRSAyOJdTJTPbmSWjPZYqLTzOH.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00508_00/HZOTroYbDNlPZDcrYzYrwcJUIowPizvHndpdIuXRSAyOJdTJTPbmSWjPZYqLTzOH.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0177-NPEB00508_00-SVCSTREETOFRAGE2</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_510" attr="psnstuff_PSN_EU_link_510"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_511_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_511">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00280_00/YTZbOdpXiMGghqqMupjxvFYsumHBuhDjrwLJDMxxhOzQuQdRnNOFdwfLsXeMcgmG.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00280_00/YTZbOdpXiMGghqqMupjxvFYsumHBuhDjrwLJDMxxhOzQuQdRnNOFdwfLsXeMcgmG.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00280_00-SOTC000000000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_511" attr="psnstuff_PSN_EU_link_511"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_512_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_512">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4173/NPEB01426_00/KbcfomgkGNeNwedHpHBhADheUoAhwLjVDRVaKGtvlnnDsgQcckxybGHizOOVXAey.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4173/NPEB01426_00/KbcfomgkGNeNwedHpHBhADheUoAhwLjVDRVaKGtvlnnDsgQcckxybGHizOOVXAey.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4173-NPEB01426_00-SHAKESPEARS00002</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_512" attr="psnstuff_PSN_EU_link_512"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_513_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_513">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4173/NPEB01426_00/uQWAZZuzgPADRMNzBvRYZdOAjXjjfBRrkyyBqGHiKywSzaBXdzknByJAIuqWlDMJCUqxsNATyChYJjqOYDzqYoNPAlgbZJrsHeXag.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4173/NPEB01426_00/uQWAZZuzgPADRMNzBvRYZdOAjXjjfBRrkyyBqGHiKywSzaBXdzknByJAIuqWlDMJCUqxsNATyChYJjqOYDzqYoNPAlgbZJrsHeXag.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4173-NPEB01426_00-SHAKESPEARS00002</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_513" attr="psnstuff_PSN_EU_link_513"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_514_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_514">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4051/NPEB00118_00/yWKrPhwCEaEfkoH2Qisxx1PMpYSTqc1M2M1d1DbVnKLPRxQb3POvVsNPjB2iIbBbJrRs1Okv5FrLhLtf50StN8w0rWn8VVIOIU86U.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4051/NPEB00118_00/yWKrPhwCEaEfkoH2Qisxx1PMpYSTqc1M2M1d1DbVnKLPRxQb3POvVsNPjB2iIbBbJrRs1Okv5FrLhLtf50StN8w0rWn8VVIOIU86U.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4051-NPEB00118_00-SIDHESHATTER0001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_514" attr="psnstuff_PSN_EU_link_514"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_515_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_515">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0001/NPEB01173_00/VWxVOYpDYlxDzDzVIgJcyaetxwLGGrDsnJwsjZjLzIfvBCQSuZbrXwEdheQLCrEa.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0001/NPEB01173_00/VWxVOYpDYlxDzDzVIgJcyaetxwLGGrDsnJwsjZjLzIfvBCQSuZbrXwEdheQLCrEa.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0001-NPEB01173_00-SWSNOWPS3REMPKG1</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_515" attr="psnstuff_PSN_EU_link_515"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_516_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_516">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4133/NPEB01959_00/VNgZZPxJTiehpcuFQABkHOmtMJOpqBjruuXKnjGwcvNefNOneoBzPEdlPAvFbGjz.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4133/NPEB01959_00/VNgZZPxJTiehpcuFQABkHOmtMJOpqBjruuXKnjGwcvNefNOneoBzPEdlPAvFbGjz.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4133-NPEB01959_00-SH7CRIMESHDDFULP</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_516" attr="psnstuff_PSN_EU_link_516"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_517_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_517">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00095_00/tL6N70nswOGrgiB5fY9bDR1nMAoJYAKHQJkeOyRuHdyFUuufQKWfCcYO1ICCpyN9QA9AhgyxaXjgpmC6awLUV0QeutMrhywTjUPit.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00095_00/tL6N70nswOGrgiB5fY9bDR1nMAoJYAKHQJkeOyRuHdyFUuufQKWfCcYO1ICCpyN9QA9AhgyxaXjgpmC6awLUV0QeutMrhywTjUPit.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00095_00-SIRENBCDE0000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_517" attr="psnstuff_PSN_EU_link_517"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_518_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_518">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00095_00/eEYyaESj7OVH4JBT2oPIH6JUMqwSBRHe15Ch35IGrKe3sqj0nqYswkqiqXsy0LW5uCvLa4vY99bSmWXxivaDVDCWpyiK8Pf0r0yNJ.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00095_00/eEYyaESj7OVH4JBT2oPIH6JUMqwSBRHe15Ch35IGrKe3sqj0nqYswkqiqXsy0LW5uCvLa4vY99bSmWXxivaDVDCWpyiK8Pf0r0yNJ.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00095_00-SIRENBCUK0000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_518" attr="psnstuff_PSN_EU_link_518"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_519_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_519">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2004/NPEB00192_00/Lq6Y3mCVskrrYnPQ7fqc3j65XjcyWx58R3hnbYrVIMvE2UQAEmNIXkJprAv7aCNY.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2004/NPEB00192_00/Lq6Y3mCVskrrYnPQ7fqc3j65XjcyWx58R3hnbYrVIMvE2UQAEmNIXkJprAv7aCNY.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2004-NPEB00192_00-SKYFIGHTER000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_519" attr="psnstuff_PSN_EU_link_519"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_520_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_520">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB01046_00/kIIwEKzNsjzoLOeOqdTtebgolMequJkVFZoqRNJDbbTEbUoxdhOObRZKoTwZCDaX.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPEB01046_00/kIIwEKzNsjzoLOeOqdTtebgolMequJkVFZoqRNJDbbTEbUoxdhOObRZKoTwZCDaX.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0082-NPEB01046_00-SLEEPINGDOGSGAME</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_520" attr="psnstuff_PSN_EU_link_520"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_521_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_521">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00342_00/DRqHrAotldTMopdvfbPKpxkONFEWCKIvtxqNayamRVwWnzFDEXIYrdOFKqCqtSHg.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00342_00/DRqHrAotldTMopdvfbPKpxkONFEWCKIvtxqNayamRVwWnzFDEXIYrdOFKqCqtSHg.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00342_00-SLY2EU110100SHIP</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_521" attr="psnstuff_PSN_EU_link_521"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_522_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_522">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00343_00/BlSTEjZMPRegQGKwLMDMOhOgPwjmelrTxzOPrFRMteeracwLUDkGWPSOYpFGExRH.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00343_00/BlSTEjZMPRegQGKwLMDMOhOgPwjmelrTxzOPrFRMteeracwLUDkGWPSOYpFGExRH.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00343_00-SLY3EU110100SHIP</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_522" attr="psnstuff_PSN_EU_link_522"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_523_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_523">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00429_00/XBJLCRjheRQoXbPkJEFBPhAWETxHiQPXJxBwWCXDjxfuyHmThXWBeyzehXCYOcJzmUmSyTAeYtqHJlVWuEuaENNtdBcHQvOlCuxXW.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00429_00/XBJLCRjheRQoXbPkJEFBPhAWETxHiQPXJxBwWCXDjxfuyHmThXWBeyzehXCYOcJzmUmSyTAeYtqHJlVWuEuaENNtdBcHQvOlCuxXW.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00429_00-SLYCOOPERPSN0000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_523" attr="psnstuff_PSN_EU_link_523"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_524_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_524">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00341_00/CvLfXxmwocxOfyCcLkgYqKCYjSFAoLHOyVbBwJEOzJrVCJJrkjtmzgdwDrYIilVU.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00341_00/CvLfXxmwocxOfyCcLkgYqKCYjSFAoLHOyVbBwJEOzJrVCJJrkjtmzgdwDrYIilVU.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00341_00-SLY1EU110100SHIP</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_524" attr="psnstuff_PSN_EU_link_524"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_525_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_525">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2004/NPEB00119_00/w0a5gLbKwpYL1jf0srobJ6cK1MGMrTqWyUfosuUlhQEmglxduVKBr5WTupIoKhUkVT24jvtGHKuc7G62PhU6XcwQwAetAYb9NnbLO.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2004/NPEB00119_00/w0a5gLbKwpYL1jf0srobJ6cK1MGMrTqWyUfosuUlhQEmglxduVKBr5WTupIoKhUkVT24jvtGHKuc7G62PhU6XcwQwAetAYb9NnbLO.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2004-NPEB00119_00-SMASHCARS0000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_525" attr="psnstuff_PSN_EU_link_525"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_526_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_526">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP5016/NPEB00765_00/wKLSwrOGRmdnyPnULMwKoappsAUEUoIdihReqiMPhYeCJlKNQslSkDJtkKnsgpMR.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP5016/NPEB00765_00/wKLSwrOGRmdnyPnULMwKoappsAUEUoIdihReqiMPhYeCJlKNQslSkDJtkKnsgpMR.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP5016-NPEB00765_00-SNSTHEGAMEV2G001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_526" attr="psnstuff_PSN_EU_link_526"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_527_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_527">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4363/NPEB01009_00/ZpNfvmWbAGSJYvPZyPGQCgjOhsNLtSFGSnqFPQgPSsQVuoPwdubGDjlGSgmpNNpR.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4363/NPEB01009_00/ZpNfvmWbAGSJYvPZyPGQCgjOhsNLtSFGSnqFPQgPSsQVuoPwdubGDjlGSgmpNNpR.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4363-NPEB01009_00-HDDBOOTEFIGS0000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_527" attr="psnstuff_PSN_EU_link_527"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_528_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_528">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4321/NPEB01002_00/xJeIotGhRWHpMNLeqpGcFAQTCBiEbqVaqAAQopPtxIpOfSQgmjzJrMYpSoEjKhUR.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4321/NPEB01002_00/xJeIotGhRWHpMNLeqpGcFAQTCBiEbqVaqAAQopPtxIpOfSQgmjzJrMYpSoEjKhUR.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4321-NPEB01002_00-HDDBOOTSNIPERGW2</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_528" attr="psnstuff_PSN_EU_link_528"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_529_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_529">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2005/NPEB00177_00/GQDY6nOmKOTVJMqpUXnfgrcmsAEoEG10EQdBgfrbELlfM1cBFeyKWk7DK4sT8Paeihfiwe0BG9ufR8LT4kFbIVRrS0Sp2nXbMgkgM.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2005/NPEB00177_00/GQDY6nOmKOTVJMqpUXnfgrcmsAEoEG10EQdBgfrbELlfM1cBFeyKWk7DK4sT8Paeihfiwe0BG9ufR8LT4kFbIVRrS0Sp2nXbMgkgM.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2005-NPEB00177_00-SOLDNERX2FINALPR</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_529" attr="psnstuff_PSN_EU_link_529"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_530_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_530">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2005/NPEB00074_00/rByqogg8v9FRtv12Qj4GGq1fpXKSwDki6AyBSgBHrQnVmq1Pp16TAQLvlIgLOyhC67Pk78ofwhFoGkphsqrvQdURyByUohTQYMn8s.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2005/NPEB00074_00/rByqogg8v9FRtv12Qj4GGq1fpXKSwDki6AyBSgBHrQnVmq1Pp16TAQLvlIgLOyhC67Pk78ofwhFoGkphsqrvQdURyByUohTQYMn8s.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2005-NPEB00074_00-SOLDNERXHIMMLSST</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_530" attr="psnstuff_PSN_EU_link_530"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_531_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_531">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00304_00/1OxeecsS62Ym9PAWAAnNljOF93hwMHCGvf08HGDMmE5qX0H9nt5Y5Adru8QxDbS6.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00304_00/1OxeecsS62Ym9PAWAAnNljOF93hwMHCGvf08HGDMmE5qX0H9nt5Y5Adru8QxDbS6.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0177-NPEB00304_00-DCCSONICADVDLG00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_531" attr="psnstuff_PSN_EU_link_531"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_532_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_532">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00856_00/OyzSWZqmVDjwfCqWnOskrWFLbRZzivyDJJctOaXBVkFJKlGwmPOUtXunDoAKfNrc.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00856_00/OyzSWZqmVDjwfCqWnOskrWFLbRZzivyDJJctOaXBVkFJKlGwmPOUtXunDoAKfNrc.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0177-NPEB00856_00-SONICADVENTURE2F</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_532" attr="psnstuff_PSN_EU_link_532"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_533_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_533">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00813_00/jSoemSFQJRwJlcvDjzmfewEvTTWuppimIKFZIWvoVqLBsqSfyFnuKzMYuWDmDAZh.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00813_00/jSoemSFQJRwJlcvDjzmfewEvTTWuppimIKFZIWvoVqLBsqSfyFnuKzMYuWDmDAZh.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0177-NPEB00813_00-SONICGENPSN00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_533" attr="psnstuff_PSN_EU_link_533"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_534_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_534">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB01162_00/SCMFqKPBBqOZkCQleXDLsalEeGJEeloSOngghLAbXBgWsXInZwTQvEeFhLdHLuHX.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB01162_00/SCMFqKPBBqOZkCQleXDLsalEeGJEeloSOngghLAbXBgWsXInZwTQvEeFhLdHLuHX.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0177-NPEB01162_00-SONICTHEFIGHTERS</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_534" attr="psnstuff_PSN_EU_link_534"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_535_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_535">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00153_00/8l131UENM4dIpbPEn0wlSXju5bjGHysfj8JMJD1TWaHYxhJClH22kNv3xoqBWd8d.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00153_00/8l131UENM4dIpbPEn0wlSXju5bjGHysfj8JMJD1TWaHYxhJClH22kNv3xoqBWd8d.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0177-NPEB00153_00-SONICDL000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_535" attr="psnstuff_PSN_EU_link_535"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_536_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_536">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00717_00/dVlEBkAdZjPLfKVNXFqGOSvOsoqRcTUHvfYEzDAeVjNLvWYfWujwtXIbyiYyLPcn.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB00717_00/dVlEBkAdZjPLfKVNXFqGOSvOsoqRcTUHvfYEzDAeVjNLvWYfWujwtXIbyiYyLPcn.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0177-NPEB00717_00-SONICDL200000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_536" attr="psnstuff_PSN_EU_link_536"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_537_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_537">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB01347_00/oOHHJYldexvQUpynxZPdoqGZftekQndZMbFEyYHwxCmJlYHPrqYKEhRBQrahlpzt.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPEB01347_00/oOHHJYldexvQUpynxZPdoqGZftekQndZMbFEyYHwxCmJlYHPrqYKEhRBQrahlpzt.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0177-NPEB01347_00-SONICUNLEASHED01</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_537" attr="psnstuff_PSN_EU_link_537"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_538_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_538">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0700/NPEB01827_00/IUhzTBmvYujQBiBmNwLysjiogwMhLBTbNjuTGfSdUuXaekHoQtUQsVVxrJBJOiwS.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0700/NPEB01827_00/IUhzTBmvYujQBiBmNwLysjiogwMhLBTbNjuTGfSdUuXaekHoQtUQsVVxrJBJOiwS.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0700-NPEB01827_00-SCLOSTSOULSGAME0</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_538" attr="psnstuff_PSN_EU_link_538"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_539_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_539">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0700/NPEB01363_00/crSlKjETHJffcMCrwarjwOFMbXRBOCLaHJzpEbwJAaDeLDuNKnMGDDwnKvhJgTPH.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0700/NPEB01363_00/crSlKjETHJffcMCrwarjwOFMbXRBOCLaHJzpEbwJAaDeLDuNKnMGDDwnKvhJgTPH.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0700-NPEB01363_00-SC5HDDBOOTGAME01</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_539" attr="psnstuff_PSN_EU_link_539"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_540_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_540">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0700/NPEB01828_00/gcoPXzNDdfsnwfDyalRMeDFHmNMPrWDAKRwmlPSMWVAShPCsUWxqIKWrTKqbbUMKzRQrKAaFjENGSMldkFuQgHaQDkukEDAFksMEq.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0700/NPEB01828_00/gcoPXzNDdfsnwfDyalRMeDFHmNMPrWDAKRwmlPSMWVAShPCsUWxqIKWrTKqbbUMKzRQrKAaFjENGSMldkFuQgHaQDkukEDAFksMEq.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0700-NPEB01828_00-SC2HDONLINEGAME1</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_540" attr="psnstuff_PSN_EU_link_540"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_541_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_541">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00289_00/QYpthDCYEcxVUTKuGJhMcoCRJHWsyWGbJESkkAhsmgPZPCespkLMINEMILtLLQcy.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00289_00/QYpthDCYEcxVUTKuGJhMcoCRJHWsyWGbJESkkAhsmgPZPCespkLMINEMILtLLQcy.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00289_00-SOUNDSHAPES00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_541" attr="psnstuff_PSN_EU_link_541"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_542_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_542">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0001/NPEB01125_00/ysfLHNMNHskQyhfSaUUxlhCpLLKkCHJwAvlCurEvfRLNPhpRnBUBioZRSRVQgTbq.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0001/NPEB01125_00/ysfLHNMNHskQyhfSaUUxlhCpLLKkCHJwAvlCurEvfRLNPhpRnBUBioZRSRVQgTbq.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0001-NPEB01125_00-SOUTHPARKTSOTGAM</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_542" attr="psnstuff_PSN_EU_link_542"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_543_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_543">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1001/NPEB00986_00/aKtSUHdpaONzQsltFRXpBnGQezVmpxNQnUNUrqBfAheUpOnsGocSgemZgCcVEGnU.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1001/NPEB00986_00/aKtSUHdpaONzQsltFRXpBnGQezVmpxNQnUNUrqBfAheUpOnsGocSgemZgCcVEGnU.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP1001-NPEB00986_00-SPECOPSTHELINE00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_543" attr="psnstuff_PSN_EU_link_543"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_544_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_544">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2038/NPEB00469_00/NKFQrDOahDCVlsWyaYwbqsKSUvpzkiooQHfgpHEhJXISexfSgoKCgZOwkTxVStjO.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2038/NPEB00469_00/NKFQrDOahDCVlsWyaYwbqsKSUvpzkiooQHfgpHEhJXISexfSgoKCgZOwkTxVStjO.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2038-NPEB00469_00-SPELUNKERHDPS301</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_544" attr="psnstuff_PSN_EU_link_544"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_545_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_545">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0001/NPEB00528_00/pkmafGrbgYnpbGeAljHQgPaQksYiTCHwSzFtFKrgavRRMcrNZJhJHxImZsUSqKMN.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0001/NPEB00528_00/pkmafGrbgYnpbGeAljHQgPaQksYiTCHwSzFtFKrgavRRMcrNZJhJHxImZsUSqKMN.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0001-NPEB00528_00-SPLINTERCELLSCPT</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_545" attr="psnstuff_PSN_EU_link_545"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_546_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_546">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0001/NPEB00557_00/KBuxRxMEAwzoxEnNwwfPsuEJdVwNOmcBicsMAGffDdKzVKRdhlBCNBXUUZYrQHhV.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0001/NPEB00557_00/KBuxRxMEAwzoxEnNwwfPsuEJdVwNOmcBicsMAGffDdKzVKRdhlBCNBXUUZYrQHhV.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0001-NPEB00557_00-SPLINTERCELLSCCT</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_546" attr="psnstuff_PSN_EU_link_546"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_547_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_547">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0001/NPEB00527_00/XTSlcngLjqIYKJZMAnFSncqmdIUDMUeYSzsGTOnZIPDbOYLFrXLQefKwNIaasdew.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0001/NPEB00527_00/XTSlcngLjqIYKJZMAnFSncqmdIUDMUeYSzsGTOnZIPDbOYLFrXLQefKwNIaasdew.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0001-NPEB00527_00-SPLINTERCELLSC00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_547" attr="psnstuff_PSN_EU_link_547"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_548_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_548">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00370_00/HKKNaMXjMmIZQcJzOguUpNnHGArCnsLKTcAdfiLSWJBUkIPliZESFHNiQGFtxGUs.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00370_00/HKKNaMXjMmIZQcJzOguUpNnHGArCnsLKTcAdfiLSWJBUkIPliZESFHNiQGFtxGUs.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00370_00-GSPORTSCHA000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_548" attr="psnstuff_PSN_EU_link_548"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_549_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_549">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4471/NPEB01996_00/trTVrispzcpAJvZIVrJxlXfkHjrqdfpAxHTtgIZBHrgKKolgLmumXVedTyxyKUzk.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4471/NPEB01996_00/trTVrispzcpAJvZIVrJxlXfkHjrqdfpAxHTtgIZBHrgKKolgLmumXVedTyxyKUzk.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4471-NPEB01996_00-SPORTSFRIENDS000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_549" attr="psnstuff_PSN_EU_link_549"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_550_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_550">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPEB01121_00/oYUhciCeDJgJIKPnttktqRtFYvRFjhaiafxEYXCqRddsmvTOYXhzpNXwvURljKYM.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPEB01121_00/oYUhciCeDJgJIKPnttktqRtFYvRFjhaiafxEYXCqRddsmvTOYXhzpNXwvURljKYM.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0006-NPEB01121_00-SSXEUHDD00000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_550" attr="psnstuff_PSN_EU_link_550"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_551_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_551">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00410_00/OzFLIibGXWJXroDCdqaDaIUJKuSPegvHjIZhpcSpznSaVFKUxAvXtmVVsalCciQi.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00410_00/OzFLIibGXWJXroDCdqaDaIUJKuSPegvHjIZhpcSpznSaVFKUxAvXtmVVsalCciQi.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00410_00-STARHAWKSPPKG001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_551" attr="psnstuff_PSN_EU_link_551"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_552_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_552">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/BCET70036_00/fZAGhLUIwEfzHxWagcmnDNPoMnIVhRtWEoHQEaXvSFCtrSMhiVboWXejcYJsKMMh.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/BCET70036_00/fZAGhLUIwEfzHxWagcmnDNPoMnIVhRtWEoHQEaXvSFCtrSMhiVboWXejcYJsKMMh.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-BCET70036_00-GBETASTARH000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_552" attr="psnstuff_PSN_EU_link_552"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_553_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_553">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2177/NPEB02251_00/EP2177-NPEB02251_00-GSTARWHALT000001_bg_1_388740e9da89475e3dfc113a46965606ae54d6a6.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2177/NPEB02251_00/EP2177-NPEB02251_00-GSTARWHALT000001_bg_1_388740e9da89475e3dfc113a46965606ae54d6a6.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2177-NPEB02251_00-GSTARWHALT000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_553" attr="psnstuff_PSN_EU_link_553"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_554_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_554">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4395/NPEB02181_00/EP4395-NPEB02181_00-STEALTHINC200000_bg_1_f77451f1dd34139bccd02966a1be957a6749263d.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4395/NPEB02181_00/EP4395-NPEB02181_00-STEALTHINC200000_bg_1_f77451f1dd34139bccd02966a1be957a6749263d.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4395-NPEB02181_00-STEALTHINC200000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_554" attr="psnstuff_PSN_EU_link_554"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_555_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_555">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4395/NPEB01358_00/rPGUUPEtPWUENBkrqHTmmwopWptexmhujbxxCOphULWwOkRISSfnaHSEAYXLTegj.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4395/NPEB01358_00/rPGUUPEtPWUENBkrqHTmmwopWptexmhujbxxCOphULWwOkRISSfnaHSEAYXLTegj.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4395-NPEB01358_00-STEALTHBSPS3FG00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_555" attr="psnstuff_PSN_EU_link_555"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_556_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_556">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4337/NPEB01798_00/DmczBJSWPuOtsinrBKgtemeUUgWObGmNzfbruRWXJxCPXkXppRpWoAfpSnoukqEhEKpwCzucqDycaVXYvZBHnabrCjfTYIEpjoRxJ.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4337/NPEB01798_00/DmczBJSWPuOtsinrBKgtemeUUgWObGmNzfbruRWXJxCPXkXppRpWoAfpSnoukqEhEKpwCzucqDycaVXYvZBHnabrCjfTYIEpjoRxJ.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4337-NPEB01798_00-STICKITFULL00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_556" attr="psnstuff_PSN_EU_link_556"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_557_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_557">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0102/NPEB01792_00/DNbKNmGGPWlToWyLxGoEfPDdwJLrjxqapCOEMtcWaxLeNMlDrqajyxOHOoYpZqhx.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0102/NPEB01792_00/DNbKNmGGPWlToWyLxGoEfPDdwJLrjxqapCOEMtcWaxLeNMlDrqajyxOHOoYpZqhx.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0102-NPEB01792_00-SFTKDIGITAL00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_557" attr="psnstuff_PSN_EU_link_557"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_558_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_558">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4056/NPEB01269_00/ksLASYvzkrLwqmKQDEPYgKoiHJHQwSBWRdCYAcNncPHpgIdszZdjdEnqkNVESXxx.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4056/NPEB01269_00/ksLASYvzkrLwqmKQDEPYgKoiHJHQwSBWRdCYAcNncPHpgIdszZdjdEnqkNVESXxx.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4056-NPEB01269_00-SOSGAME000000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_558" attr="psnstuff_PSN_EU_link_558"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_559_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_559">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2095/NPEB01866_00/oPBIVhyfKDCEDFxZpFOtzCvOJDhpbxOdsIBSrZUCOIrFMWTJZQsDzwKcCopNQtrs.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2095/NPEB01866_00/oPBIVhyfKDCEDFxZpFOtzCvOJDhpbxOdsIBSrZUCOIrFMWTJZQsDzwKcCopNQtrs.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2095-NPEB01866_00-SMLPS30000000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_559" attr="psnstuff_PSN_EU_link_559"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_560_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_560">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0102/NPEB00020_00/TxToYh9I8dx9GFDeHLi9giU7WwHP3pjjsi2YA4uX5Wpm8RscuO70U5GWboJa0OWheQMTCcST85803vU7b3yu2GUyBSI2X9dpTPi5V.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0102/NPEB00020_00/TxToYh9I8dx9GFDeHLi9giU7WwHP3pjjsi2YA4uX5Wpm8RscuO70U5GWboJa0OWheQMTCcST85803vU7b3yu2GUyBSI2X9dpTPi5V.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0102-NPEB00020_00-EUROPE0000000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_560" attr="psnstuff_PSN_EU_link_560"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_561_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_561">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00014_00/jSOMDdAuWGWuDHpMgVNNiWcQTwdzuUXqhVftLgXMbWfFbYnxdUBbjCVWNJjWemzP.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00014_00/jSOMDdAuWGWuDHpMgVNNiWcQTwdzuUXqhVftLgXMbWfFbYnxdUBbjCVWNJjWemzP.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00014_00-STARDUSTFULL0001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_561" attr="psnstuff_PSN_EU_link_561"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_562_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_562">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00014_00/4XOEguG7venpJ0vNGcmoYIiCdkWmExo23mMFPC9u7aWQfC9WMJhY3IvwciMhGuleoIatJ7uWaJDPf24YUExqAYusVuE1g92ObWihc.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEA00014_00/4XOEguG7venpJ0vNGcmoYIiCdkWmExo23mMFPC9u7aWQfC9WMJhY3IvwciMhGuleoIatJ7uWaJDPf24YUExqAYusVuE1g92ObWihc.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-NPEA00014_00-STARDUSTFULL0001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_562" attr="psnstuff_PSN_EU_link_562"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_563_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_563">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0102/NPEB00036_00/PXV1AU5eR4WmdyYuKPbQdqDpe50hhmMAG86fOYFciYC1yEFm8jw6PBewYh1IQ5BMW8XviUcoE3vS7lxKe7NqCX6nK0pH6D4KrRBnl.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0102/NPEB00036_00/PXV1AU5eR4WmdyYuKPbQdqDpe50hhmMAG86fOYFciYC1yEFm8jw6PBewYh1IQ5BMW8XviUcoE3vS7lxKe7NqCX6nK0pH6D4KrRBnl.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0102-NPEB00036_00-SUPERSFIGHTER2EU</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_563" attr="psnstuff_PSN_EU_link_563"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_564_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_564">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4037/BLET70001_00/nJymVvlBF97R8NVl2sjW32ItEPSNAQPu2EF9PerqiISgadNqm2oRdfSNC9UP5w8DOVIWd6KQKYuAMMlR2W0qPb3W932mHQbKcEQTL.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4037/BLET70001_00/nJymVvlBF97R8NVl2sjW32ItEPSNAQPu2EF9PerqiISgadNqm2oRdfSNC9UP5w8DOVIWd6KQKYuAMMlR2W0qPb3W932mHQbKcEQTL.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4037-BLET70001_00-HDDBOOTABLEBETA1</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_564" attr="psnstuff_PSN_EU_link_564"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_565_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_565">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4064/NPEB01316_00/vQEoOXcXiJRUdbVlUdbvbhCJxZZuboNYtWDjsQOPozDLvcIOFsCExJaXFvDjGdSd.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4064/NPEB01316_00/vQEoOXcXiJRUdbVlUdbvbhCJxZZuboNYtWDjsQOPozDLvcIOFsCExJaXFvDjGdSd.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4064-NPEB01316_00-SUPERFROG0000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_565" attr="psnstuff_PSN_EU_link_565"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_566_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_566">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2002/NPEB00062_00/sO5mgVsS8kPB4NVEyQOW4yw6w5yBYDPgkL9CS7lnF4LYpPo94EcLodI1u8NICFsbG1yuyQeIcGv8UB5B1JYxgUwr3GFuiipv1WGji.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2002/NPEB00062_00/sO5mgVsS8kPB4NVEyQOW4yw6w5yBYDPgkL9CS7lnF4LYpPo94EcLodI1u8NICFsbG1yuyQeIcGv8UB5B1JYxgUwr3GFuiipv1WGji.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2002-NPEB00062_00-SARBATTLECARS001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_566" attr="psnstuff_PSN_EU_link_566"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_567_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_567">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4389/NPEB01976_00/LhSzFsgbAgjcoMNNCnWTOCCGEsSXoXxzKWKoZOrRJGnfwwiFKsrpfSafXiDALaXo.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4389/NPEB01976_00/LhSzFsgbAgjcoMNNCnWTOCCGEsSXoXxzKWKoZOrRJGnfwwiFKsrpfSafXiDALaXo.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4389-NPEB01976_00-SYBERIA1PSN00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_567" attr="psnstuff_PSN_EU_link_567"/>
+        </Items>
+    </View>
+
+    <View id="psnstuff_PSN_EU_item_568_link">
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_568">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4389/NPEB02016_00/EP4389-NPEB02016_00-SYBERIA2PSN00001_bg_1_2de12123f5d503f87cb61dddff8bd2a8873dea6d.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4389/NPEB02016_00/EP4389-NPEB02016_00-SYBERIA2PSN00001_bg_1_2de12123f5d503f87cb61dddff8bd2a8873dea6d.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4389-NPEB02016_00-SYBERIA2PSN00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_568" attr="psnstuff_PSN_EU_link_568"/>
+        </Items>
+    </View>
+</XMBML>

@@ -1,0 +1,387 @@
+<XMBML version="1.0">
+<View id="region_1">
+<Attributes>			
+			<Table key="simbols_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>0-100</String></Pair>
+                <Pair key="info"><String>0-100 Games</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>	
+	       
+		   <Table key="A_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>A</String></Pair>
+                <Pair key="info"><String>Letter A</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="B_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>B</String></Pair>
+                <Pair key="info"><String>Letter B</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="C_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>C</String></Pair>
+                <Pair key="info"><String>Letter C</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="D_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>D</String></Pair>
+                <Pair key="info"><String>Letter D</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="E_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>E</String></Pair>
+                <Pair key="info"><String>Letter E</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="F_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>F</String></Pair>
+                <Pair key="info"><String>Letter F</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="G_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>G</String></Pair>
+                <Pair key="info"><String>Letter G</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="H_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>H</String></Pair>
+                <Pair key="info"><String>Letter H</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="I_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>I</String></Pair>
+                <Pair key="info"><String>Letter I</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="J_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>J</String></Pair>
+                <Pair key="info"><String>Letter J</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="K_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>K</String></Pair>
+                <Pair key="info"><String>Letter K</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="L_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>L</String></Pair>
+                <Pair key="info"><String>Letter L</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="M_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>M</String></Pair>
+                <Pair key="info"><String>Letter M</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="N_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>N</String></Pair>
+                <Pair key="info"><String>Letter N</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="O_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>O</String></Pair>
+                <Pair key="info"><String>Letter O</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="P_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>P</String></Pair>
+                <Pair key="info"><String>Letter P</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="Q_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>Q</String></Pair>
+                <Pair key="info"><String>Letter Q</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="R_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>R</String></Pair>
+                <Pair key="info"><String>Letter R</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="S_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>S</String></Pair>
+                <Pair key="info"><String>Letter S</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+						
+			<Table key="T_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>T</String></Pair>
+                <Pair key="info"><String>Letter T</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="U_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>U</String></Pair>
+                <Pair key="info"><String>Letter U</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="V_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>V</String></Pair>
+                <Pair key="info"><String>Letter V</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="W_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>W</String></Pair>
+                <Pair key="info"><String>Letter W</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="X_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>X</String></Pair>
+                <Pair key="info"><String>Letter X</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="Y_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>Y</String></Pair>
+                <Pair key="info"><String>Letter Y</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+			<Table key="Z_eurgames">
+                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
+                <Pair key="title"><String>Z</String></Pair>
+                <Pair key="info"><String>Letter Z</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+					
+</Attributes>
+
+<Items>
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="simbols_eurgames"
+                attr="simbols_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/simbols.xml#simbols_games"
+            />
+			
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="A_eurgames"
+                attr="A_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/A.xml#A_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="B_eurgames"
+                attr="B_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/B.xml#B_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="C_eurgames"
+                attr="C_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/C.xml#C_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="D_eurgames"
+                attr="D_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/D.xml#D_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="E_eurgames"
+                attr="E_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/E.xml#E_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="F_eurgames"
+                attr="F_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/F.xml#F_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="G_eurgames"
+                attr="G_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/G.xml#G_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="H_eurgames"
+                attr="H_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/H.xml#H_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="I_eurgames"
+                attr="I_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/I.xml#I_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="J_eurgames"
+                attr="J_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/J.xml#J_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="K_eurgames"
+                attr="K_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/K.xml#K_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="L_eurgames"
+                attr="L_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/L.xml#L_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="M_eurgames"
+                attr="M_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/M.xml#M_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="N_eurgames"
+                attr="N_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/N.xml#N_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="O_eurgames"
+                attr="O_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/O.xml#O_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="P_eurgames"
+                attr="P_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/P.xml#P_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="Q_eurgames"
+                attr="Q_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/Q.xml#Q_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="R_eurgames"
+                attr="R_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/R.xml#R_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="S_eurgames"
+                attr="S_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/S.xml#S_games"
+            />
+						
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="T_eurgames"
+                attr="T_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/T.xml#T_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="U_eurgames"
+                attr="U_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/U.xml#U_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="V_eurgames"
+                attr="V_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/V.xml#V_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="W_eurgames"
+                attr="W_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/W.xml#W_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="X_eurgames"
+                attr="X_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/X.xml#X_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="Y_eurgames"
+                attr="Y_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/Y.xml#Y_games"
+            />
+			
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="Z_eurgames"
+                attr="Z_eurgames"
+                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/EUR/Z.xml#Z_games"
+
+            />			
+</Items>
+</View>
+</XMBML>
