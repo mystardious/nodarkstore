@@ -1,0 +1,131 @@
+<XMBML version="1.0">
+	<View id="X_games">
+		<Attributes>
+			<Table key="psnstuff_PSN_US_item_1277">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>XBlaze Lost: Memories</String></Pair>
+				<Pair key="info"><String>NPUB31661 - 5744.83 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_US_item_1278">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>X-COM Enemy Unknown</String></Pair>
+				<Pair key="info"><String>NPUB31119 - 7775.36 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_US_item_1279">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>XCOM: Enemy Within</String></Pair>
+				<Pair key="info"><String>NPUB31198 - 7749.10 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_US_item_1280">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>X-Men - The Arcade Game</String></Pair>
+				<Pair key="info"><String>NPUB30320 - 47.56 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_US_item_1277"
+				attr="psnstuff_PSN_US_item_1277"
+				src="#psnstuff_PSN_US_item_1277_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_US_item_1278"
+				attr="psnstuff_PSN_US_item_1278"
+				src="#psnstuff_PSN_US_item_1278_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_US_item_1279"
+				attr="psnstuff_PSN_US_item_1279"
+				src="#psnstuff_PSN_US_item_1279_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_US_item_1280"
+				attr="psnstuff_PSN_US_item_1280"
+				src="#psnstuff_PSN_US_item_1280_link"
+			/>
+		</Items>
+	</View>
+
+	<View id="psnstuff_PSN_US_item_1277_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_US_link_1277">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP1024/NPUB31661_00/UP1024-NPUB31661_00-XBLAZE2PS3USA000_bg_1_c30a5257295db286b4f38cba1d9d9ceb2ebb8efd.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP1024/NPUB31661_00/UP1024-NPUB31661_00-XBLAZE2PS3USA000_bg_1_c30a5257295db286b4f38cba1d9d9ceb2ebb8efd.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP1024-NPUB31661_00-XBLAZE2PS3USA000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_US_link_1277" attr="psnstuff_PSN_US_link_1277"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_US_item_1278_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_US_link_1278">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP1001/NPUB31119_00/nqiBaVaoqwPrTVurhvuLNqDFZwJExkPsCsYdSfQvOeUeaxQrwULjXjtCJrndVzxk.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP1001/NPUB31119_00/nqiBaVaoqwPrTVurhvuLNqDFZwJExkPsCsYdSfQvOeUeaxQrwULjXjtCJrndVzxk.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP1001-NPUB31119_00-HDDBOOT000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_US_link_1278" attr="psnstuff_PSN_US_link_1278"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_US_item_1279_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_US_link_1279">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP1001/NPUB31198_00/EjaEhaFdAUWLWxAkVdYUPRvTqzlndIzcuFIvBAHGrxfBcQPBbUxLhzRWcwaYhMRD.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP1001/NPUB31198_00/EjaEhaFdAUWLWxAkVdYUPRvTqzlndIzcuFIvBAHGrxfBcQPBbUxLhzRWcwaYhMRD.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP1001-NPUB31198_00-HDDBOOT000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_US_link_1279" attr="psnstuff_PSN_US_link_1279"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_US_item_1280_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_US_link_1280">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0101/NPUB30320_00/CrXzeuWafGLEeyOLLMMrFgGtrqiUPtJnPNEAhPoineLvCyputfuuLHSdkaDaxoBaackUIAmLuxPeyVwjkdHpybMxATOMzkVOUdGEE.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0101/NPUB30320_00/CrXzeuWafGLEeyOLLMMrFgGtrqiUPtJnPNEAhPoineLvCyputfuuLHSdkaDaxoBaackUIAmLuxPeyVwjkdHpybMxATOMzkVOUdGEE.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0101-NPUB30320_00-XMENARCADEKONAMI</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_US_link_1280" attr="psnstuff_PSN_US_link_1280"/>
+        </Items>
+		
+    </View>
+
+</XMBML>

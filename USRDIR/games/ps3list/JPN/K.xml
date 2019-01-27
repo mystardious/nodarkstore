@@ -1,0 +1,101 @@
+<XMBML version="1.0">
+	<View id="K_games">
+		<Attributes>
+			<Table key="psnstuff_PSN_JP_item_106">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Katamari Damacy (PS2)</String></Pair>
+				<Pair key="info"><String>NPJD00020 - 3541.78 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_JP_item_107">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Killzone 3 Multiplayer</String></Pair>
+				<Pair key="info"><String>NPJA00071 - 4067.58 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_JP_item_108">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>KOF Maximum Impact Regulation A (PS2)</String></Pair>
+				<Pair key="info"><String>NPJD00091 - 1285.91 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_106"
+				attr="psnstuff_PSN_JP_item_106"
+				src="#psnstuff_PSN_JP_item_106_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_107"
+				attr="psnstuff_PSN_JP_item_107"
+				src="#psnstuff_PSN_JP_item_107_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_108"
+				attr="psnstuff_PSN_JP_item_108"
+				src="#psnstuff_PSN_JP_item_108_link"
+			/>
+		</Items>
+	</View>
+
+	<View id="psnstuff_PSN_JP_item_106_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_106">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0700/NPJD00020_00/ytYKuAJmahDzAIovLYexkBYfMBifGGznDYAbifbjxlPwHbPajwlHqVgVwAOWCMpHqZvWJdpDLPOXwZrvmIKhFJFrRjrIQIakscGtx.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0700/NPJD00020_00/ytYKuAJmahDzAIovLYexkBYfMBifGGznDYAbifbjxlPwHbPajwlHqVgVwAOWCMpHqZvWJdpDLPOXwZrvmIKhFJFrRjrIQIakscGtx.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0700-NPJD00020_00-0000000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_106" attr="psnstuff_PSN_JP_link_106"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_JP_item_107_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_107">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://ares.dl.playstation.net/cdn/JP9000/NPJA00071_00/cEtGHfhaKOLYPNPTaDdPBUScXMqMSQcXuhAVXCjSwvzBUapWUBciXtfCFMBcmQznwMImamosiplWYWKEOnlwFhiqRAJdSLBsHqaLZ.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://ares.dl.playstation.net/cdn/JP9000/NPJA00071_00/cEtGHfhaKOLYPNPTaDdPBUScXMqMSQcXuhAVXCjSwvzBUapWUBciXtfCFMBcmQznwMImamosiplWYWKEOnlwFhiqRAJdSLBsHqaLZ.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP9000-NPJA00071_00-KZ3MPONLY0000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_107" attr="psnstuff_PSN_JP_link_107"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_JP_item_108_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_108">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0576/NPJD00091_00/ASYKZSRnrfQPBiMAaifGpwhNEUoKFuKWzmlxtIunMSegAuNrmDwwKFoHfrtXwgrUrMQybjmlcELhfJrQELEFLWZwPaQDtwnrFzgFn.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0576/NPJD00091_00/ASYKZSRnrfQPBiMAaifGpwhNEUoKFuKWzmlxtIunMSegAuNrmDwwKFoHfrtXwgrUrMQybjmlcELhfJrQELEFLWZwPaQDtwnrFzgFn.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0576-NPJD00091_00-0000000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_108" attr="psnstuff_PSN_JP_link_108"/>
+        </Items>
+		
+    </View>
+
+</XMBML>

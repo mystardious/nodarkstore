@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <XMBML version="1.0">
-	<View id="pett_xmb_main"> 
+
+	<View id="pett_xmb_main">
 		<Attributes> 
 			<Table key="pett_main">
 				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/icon.png</String></Pair>
 				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
-				<Pair key="title"><String>★ Dark Store</String></Pair>  
-				<Pair key="info"><String>#StayDark</String></Pair>
+				<Pair key="title"><String>★ No Dark Store</String></Pair>  
+				<Pair key="info"><String>#NoPayStation</String></Pair>
 				<Pair key="ingame"><String>disable</String></Pair>
-			</Table>
-																						
+			</Table>																	
 		</Attributes>
-			<Items>
-				<Query 
-					class="type:x-xmb/folder-pixmap"
-					key="pett_main"
-					attr="pett_main"
-					src="#main_folder"/>
-																				
-			</Items>
-		</View>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="pett_main"
+				attr="pett_main"
+				src="#main_folder"
+			/>																
+		</Items>
+	</View>
 				
-		<View id="main_folder"> 
-	<Attributes>
+	<View id="main_folder">
 	
-	<Table key="store_psn">
+		<Attributes>
+	
+			<Table key="store_psn">
 				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/gamelist.png</String></Pair>
 				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
 				<Pair key="title"><String>PS3 Games</String></Pair>
-				<Pair key="info"><String>Download PS3 games (work in progress)</String></Pair>
+				<Pair key="info"><String>Download PS3 games</String></Pair>
 				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>		
 
-    <Table key="ds_about">
+			<Table key="ds_about">
 				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/about.png</String></Pair>
 				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
 				<Pair key="title"><String>About Dark Store</String></Pair>
@@ -41,73 +42,72 @@
 				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>			
 			
-</Attributes>
-			<Items>
+		</Attributes>
+		
+		<Items>
 					
 					
-					<Query
-                class="type:x-xmb/folder-pixmap"
-                key="store_psn"
-                attr="store_psn"
-                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/game_list_ps3.xml#ps3_games"/>			
-				
-				<Query 
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="store_psn"
+				attr="store_psn"
+				src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/game_list_ps3.xml#ps3_games"
+			/>			
+			
+			<Query 
 				class="type:x-xmb/folder-pixmap"
 				key="ds_about"
 				attr="ds_about"
-				src="#darkstore_setup"/>
+				src="#darkstore_setup"
+			/>
                    													
 	    </Items>
-		</View>
 		
-		<View id="darkstore_setup"> 
+	</View>
+		
+	<View id="darkstore_setup">
+	
 		<Attributes> 
 		 				
 			<Table key="darkstore_update">
 				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/update.png</String></Pair>
 				<Pair key="title"><String>Dark Store Update</String></Pair>
-				<Pair key="info"><String>Current Build: 0.7 (19.06.2018)</String></Pair>
-			</Table>
-			
-		    <Table key="darkstore_addon">
-			<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/addon.png</String></Pair>
-				<Pair key="title"><String>Mod Menu Addon (Not available yet)</String></Pair>
-				<Pair key="info"><String>Download Mod Menu addon</String></Pair>
+				<Pair key="info"><String>Current Build: 3.0 (26.01.2019)</String></Pair>
 			</Table>
 			
 			<Table key="darkstore_specialthx">
 				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/specialthx.png</String></Pair>
 				<Pair key="title"><String>Special Thanks and Credits</String></Pair>
 				<Pair key="info"><String>Tap X button</String></Pair>
-			</Table>	
-			</Attributes>
+			</Table>
 			
-			<Items>
+		</Attributes>
+			
+		<Items>
 				
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="darkstore_update" 
 				attr="darkstore_update"
-				src="#darkstore_update_main"/>
-				
-				<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="darkstore_addon" 
-				attr="darkstore_addon"
-				src="#darkstore_addon_main"/> 
+				src="#darkstore_update_main"
+			/>
 				
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="darkstore_specialthx" 
 				attr="darkstore_specialthx"
-				src="#darkstore_specialthxsrc"/> 
+				src="#darkstore_specialthxsrc"
+			/> 
 					
-			</Items>
-			</View>
+		</Items>
+		
+	</View>
 		
 		
-		<View id="darkstore_update_main">
+	<View id="darkstore_update_main">
+	
 		<Attributes>
+			
 			<Table key="darkstore_update_item">
 				<Pair key="info"><String>net_package_install</String></Pair>
 				<Pair key="pkg_src"><String>https://dl.dropboxusercontent.com/s/dvc0yamzuwmfman/latest_darkstore.pkg</String></Pair>
@@ -116,32 +116,28 @@
 				<Pair key="content_id"><String>TA9000-DARKSTORE_00-GLORYOFBRUNESTUD</String></Pair>
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/update.png</String></Pair>
  			</Table> 
+			
 		</Attributes> 
-			<Items>
+		
+		<Items>
 			<Item class="type:x-xmb/xmlnpsignup" key="darkstore_update_item" attr="darkstore_update_item"/>
-		</Items> 
-		</View>
+		</Items>
 		
-		<View id="darkstore_addon_main">
-		<Attributes>
-			<Table key="darkstore_addon_item">
-				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String></String></Pair>
-				<Pair key="pkg_src_qa"><String></String></Pair>
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
-				<Pair key="content_id"><String>TA9000-DARKSTORE_00-GLORYOFBRUNESTUD</String></Pair>
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/addon.png</String></Pair>
- 			</Table> 
-		</Attributes> 
-			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="darkstore_addon_item" attr="darkstore_addon_item"/>
-		</Items> 
-		</View>
+	</View>
 		
-		<View id="darkstore_specialthxsrc"> 
-	<Attributes>
+	<View id="darkstore_specialthxsrc"> 
 	
-	<Table key="st_MasterAdi">
+		<Attributes>
+		
+			<Table key="st_Mystardious">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/st/mystardious.png</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>Mystardious</String></Pair>
+				<Pair key="info"><String>For reviving DarkStore, adding loads more games from US, EU, & JPN</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+	
+			<Table key="st_MasterAdi">
 				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/st/MasterAdiicn.png</String></Pair>
 				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
 				<Pair key="title"><String>MasterAdi</String></Pair>
@@ -149,7 +145,7 @@
 				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>
 			
-	<Table key="st_HellCoreMoDz">
+			<Table key="st_HellCoreMoDz">
 				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/st/HellCoreMoDzicn.png</String></Pair>
 				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
 				<Pair key="title"><String>HellCoreMoDz</String></Pair>
@@ -204,9 +200,15 @@
 				<Pair key="info"><String>For their database full of 'backups'.</String></Pair>
 				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>
+			
 		</Attributes>
 			
-			<Items>
+		<Items>
+			
+			<Query 
+				class="type:x-xmb/module-action"
+				key="st_Mystardious"
+				attr="st_Mystardious"/>
 			
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -219,40 +221,42 @@
 				key="st_HellCoreMoDz"
 				attr="st_HellCoreMoDz"/>
 				
-				<Query 
+			<Query 
 				class="type:x-xmb/module-action"
 				key="st_xVsgn"
 				attr="st_xVsgn"/>
 				
-				<Query 
+			<Query 
 				class="type:x-xmb/module-action"
 				key="st_oVxzi"
 				attr="st_oVxzi"/>
 				
-				<Query 
+			<Query 
 				class="type:x-xmb/module-action"
 				key="st_shadow"
 				attr="st_shadow"/>
 				
-				<Query 
+			<Query 
 				class="type:x-xmb/module-action"
 				key="st_dsc"
 				attr="st_dsc"/>
 				
-				<Query 
+			<Query 
 				class="type:x-xmb/module-action"
 				key="st_ps3x"
 				attr="st_ps3x"/>
 				
-				<Query 
+			<Query 
 				class="type:x-xmb/module-action"
 				key="st_psnstuff"
 				attr="st_psnstuff"/>
 				
-				</Items>
-			</View>
+		</Items>
 				
-				<View id="adi_secret">
+	</View>
+				
+	<View id="adi_secret">
+	
 		<Attributes>
 			<Table key="adi_secret_item">
 				<Pair key="info"><String>net_package_install</String></Pair>
@@ -263,9 +267,11 @@
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/flask.png</String></Pair>
  			</Table> 
 		</Attributes> 
-			<Items>
+		
+		<Items>
 			<Item class="type:x-xmb/xmlnpsignup" key="adi_secret_item" attr="adi_secret_item"/>
 		</Items> 
-		</View>
+		
+	</View>
 			
 </XMBML>

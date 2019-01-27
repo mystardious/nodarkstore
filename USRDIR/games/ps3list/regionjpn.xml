@@ -162,20 +162,6 @@
                 <Pair key="ingame"><String>disable</String></Pair>
             </Table>
 			
-			<Table key="X_jpngames">
-                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
-                <Pair key="title"><String>X</String></Pair>
-                <Pair key="info"><String>Letter X</String></Pair>
-                <Pair key="ingame"><String>disable</String></Pair>
-            </Table>
-			
-			<Table key="Y_jpngames">
-                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
-                <Pair key="title"><String>Y</String></Pair>
-                <Pair key="info"><String>Letter Y</String></Pair>
-                <Pair key="ingame"><String>disable</String></Pair>
-            </Table>
-			
 			<Table key="Z_jpngames">
                 <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/folder.png</String></Pair>
                 <Pair key="title"><String>Z</String></Pair>
@@ -345,20 +331,6 @@
                 key="W_jpngames"
                 attr="W_jpngames"
                 src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/W.xml#W_games"
-            />
-			
-			<Query
-                class="type:x-xmb/folder-pixmap"
-                key="X_jpngames"
-                attr="X_jpngames"
-                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/X.xml#X_games"
-            />
-			
-			<Query
-                class="type:x-xmb/folder-pixmap"
-                key="Y_jpngames"
-                attr="Y_jpngames"
-                src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/JPN/Y.xml#Y_games"
             />
 			
 			<Query

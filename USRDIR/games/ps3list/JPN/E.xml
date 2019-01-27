@@ -1,0 +1,161 @@
+<XMBML version="1.0">
+	<View id="E_games">
+		<Attributes>
+			<Table key="psnstuff_PSN_JP_item_73">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>E.X. Troopers</String></Pair>
+				<Pair key="info"><String>NPJB00235 - N/A Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_JP_item_74">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Earthworm Jim HD</String></Pair>
+				<Pair key="info"><String>NPJB00115 - 226.01 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_JP_item_75">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Eat Them!: Destruction (Trial to Full)</String></Pair>
+				<Pair key="info"><String>NPJA90185 - N/A Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_JP_item_76">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Entwined</String></Pair>
+				<Pair key="info"><String>NPJA00124 - 1493.53 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_JP_item_77">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Everybody'sÂ GOLF 6</String></Pair>
+				<Pair key="info"><String>NPJA00086 - 2684.51 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_73"
+				attr="psnstuff_PSN_JP_item_73"
+				src="#psnstuff_PSN_JP_item_73_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_74"
+				attr="psnstuff_PSN_JP_item_74"
+				src="#psnstuff_PSN_JP_item_74_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_75"
+				attr="psnstuff_PSN_JP_item_75"
+				src="#psnstuff_PSN_JP_item_75_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_76"
+				attr="psnstuff_PSN_JP_item_76"
+				src="#psnstuff_PSN_JP_item_76_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_77"
+				attr="psnstuff_PSN_JP_item_77"
+				src="#psnstuff_PSN_JP_item_77_link"
+			/>
+		</Items>
+	</View>
+
+	<View id="psnstuff_PSN_JP_item_73_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_73">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0102/NPJB00235_00/ghRqeWUBPTwkszQdxgbwvKZzfFiIbfvYQeWTRjZqYNuRsCLooSbUZtYXCpyFvmRGQdlXRcNgZRzfSYizGhxkWFdozyMHStoDRJzCD.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0102/NPJB00235_00/ghRqeWUBPTwkszQdxgbwvKZzfFiIbfvYQeWTRjZqYNuRsCLooSbUZtYXCpyFvmRGQdlXRcNgZRzfSYizGhxkWFdozyMHStoDRJzCD.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0102-NPJB00235_00-EXTROOPERS000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_73" attr="psnstuff_PSN_JP_link_73"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_JP_item_74_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_74">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://ares.dl.playstation.net/cdn/JP0132/NPJB00115_00/PQWTOcneaPJlZpAVSKPTIsWqMHWrsEParUQIbbummJVWFQZHSGuxfBWywcsmZMZqkiygZyZQhfXNWVGqUEEBpWobDXGIGruXoxYeV.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://ares.dl.playstation.net/cdn/JP0132/NPJB00115_00/PQWTOcneaPJlZpAVSKPTIsWqMHWrsEParUQIbbummJVWFQZHSGuxfBWywcsmZMZqkiygZyZQhfXNWVGqUEEBpWobDXGIGruXoxYeV.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0132-NPJB00115_00-EARTHWROMTRIAL32</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_74" attr="psnstuff_PSN_JP_link_74"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_JP_item_75_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_75">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://ares.dl.playstation.net/cdn/JP9000/NPJA90185_00/ayZfaxdDUAeGzpqYSuuIoCimIFbrZllWFDGUBBbzebIChUvuzOqYiNkrUvWsnSEDNZeMdugWwSbPeOoyBaECXXdtipSUSwqqOpMMl.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://ares.dl.playstation.net/cdn/JP9000/NPJA90185_00/ayZfaxdDUAeGzpqYSuuIoCimIFbrZllWFDGUBBbzebIChUvuzOqYiNkrUvWsnSEDNZeMdugWwSbPeOoyBaECXXdtipSUSwqqOpMMl.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP9000-NPJA90185_00-EATTHEMTRIAL0001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_75" attr="psnstuff_PSN_JP_link_75"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_JP_item_76_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_76">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP9000/NPJA00124_00/PKBUJBoAeHMxjbQqAbLqzVgQxBOJLaRDwSlLEXlJgBbJAJowzDmAeaBHoSXAhFLCFPmoFrXXQYZmvUhauGcJOmIMmHccxYLTfuxtT.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP9000/NPJA00124_00/PKBUJBoAeHMxjbQqAbLqzVgQxBOJLaRDwSlLEXlJgBbJAJowzDmAeaBHoSXAhFLCFPmoFrXXQYZmvUhauGcJOmIMmHccxYLTfuxtT.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP9000-NPJA00124_00-ETWPS30000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_76" attr="psnstuff_PSN_JP_link_76"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_JP_item_77_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_77">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP9000/NPJA00086_00/hQqyxosVtZfsOaxEnOsFWPucxxkXPFTTkQknjICnaqDXnqCvmotTkbYjDpzPQrLkDFCBlsSzElUyLeFghSGVJvkdLwCCfxaMTSRDN.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP9000/NPJA00086_00/hQqyxosVtZfsOaxEnOsFWPucxxkXPFTTkQknjICnaqDXnqCvmotTkbYjDpzPQrLkDFCBlsSzElUyLeFghSGVJvkdLwCCfxaMTSRDN.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP9000-NPJA00086_00-0000111122223333</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_77" attr="psnstuff_PSN_JP_link_77"/>
+        </Items>
+		
+    </View>
+
+</XMBML>

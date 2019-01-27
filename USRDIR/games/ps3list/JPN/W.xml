@@ -1,0 +1,161 @@
+<XMBML version="1.0">
+	<View id="W_games">
+		<Attributes>
+			<Table key="psnstuff_PSN_JP_item_222">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Weekly Toro Station</String></Pair>
+				<Pair key="info"><String>NPJA00046 - 360.06 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_JP_item_223">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>When Vikings Attack!</String></Pair>
+				<Pair key="info"><String>NPJA00091 - 747.15 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_JP_item_224">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>White Knight Chronicles II</String></Pair>
+				<Pair key="info"><String>NPJA00104 - N/A Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_JP_item_225">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Wizardry: Torawareshi Bourei no Machi</String></Pair>
+				<Pair key="info"><String>NPJB00099 - 838.82 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_JP_item_226">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Wizardry: Torawareshi Tamashii No Meikyu</String></Pair>
+				<Pair key="info"><String>NPJB00039 - 623.44 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_222"
+				attr="psnstuff_PSN_JP_item_222"
+				src="#psnstuff_PSN_JP_item_222_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_223"
+				attr="psnstuff_PSN_JP_item_223"
+				src="#psnstuff_PSN_JP_item_223_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_224"
+				attr="psnstuff_PSN_JP_item_224"
+				src="#psnstuff_PSN_JP_item_224_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_225"
+				attr="psnstuff_PSN_JP_item_225"
+				src="#psnstuff_PSN_JP_item_225_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_226"
+				attr="psnstuff_PSN_JP_item_226"
+				src="#psnstuff_PSN_JP_item_226_link"
+			/>
+		</Items>
+	</View>
+
+	<View id="psnstuff_PSN_JP_item_222_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_222">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP9002/NPJA00046_00/udvP13QjKWRlI8ePT4iAl59PFPLoB1qYJwEvAJdtcUCrTmKShuudUkUN8Wt1BfiXEHom2fd5EtpeujSJpDIkqGWKRE2nwn4utxSxj.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP9002/NPJA00046_00/udvP13QjKWRlI8ePT4iAl59PFPLoB1qYJwEvAJdtcUCrTmKShuudUkUN8Wt1BfiXEHom2fd5EtpeujSJpDIkqGWKRE2nwn4utxSxj.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP9002-NPJA00046_00-0000000000000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_222" attr="psnstuff_PSN_JP_link_222"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_JP_item_223_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_223">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://ares.dl.playstation.net/cdn/JP9000/NPJA00091_00/jnKUoocpCulrDvJwxBCJCWIsTtLlGtdzJuhKINSeAwedwYbiLyxlaERqTAGmLDYrPyGoIgWHsDtAIcilhjLlOBEFvfzMHMhGpdEJS.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://ares.dl.playstation.net/cdn/JP9000/NPJA00091_00/jnKUoocpCulrDvJwxBCJCWIsTtLlGtdzJuhKINSeAwedwYbiLyxlaERqTAGmLDYrPyGoIgWHsDtAIcilhjLlOBEFvfzMHMhGpdEJS.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP9000-NPJA00091_00-VIKINGSATTACK001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_223" attr="psnstuff_PSN_JP_link_223"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_JP_item_224_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_224">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP9000/NPJA00104_00/wzhwRwKebinCHvOxRmvATaHYuMeTDokliWioWHUylTNNFazDJikZShgBZvwKUoawZIIixneZFVeSCUBzpIXuRIwCwEQIpKBlCpaQC.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP9000/NPJA00104_00/wzhwRwKebinCHvOxRmvATaHYuMeTDokliWioWHUylTNNFazDJikZShgBZvwKUoawZIIixneZFVeSCUBzpIXuRIwCwEQIpKBlCpaQC.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP9000-NPJA00104_00-0000000000000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_224" attr="psnstuff_PSN_JP_link_224"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_JP_item_225_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_225">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0048/NPJB00099_00/kFdOmWjCQFRQumPeBKUyoRAQNSzDxjAsKzxUSJtihUrhlPQacwzSBzsTbVwYvgUEZQtWrNBsLLHuDrRcRZubFqWCKfLKcpVyHJKFH.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0048/NPJB00099_00/kFdOmWjCQFRQumPeBKUyoRAQNSzDxjAsKzxUSJtihUrhlPQacwzSBzsTbVwYvgUEZQtWrNBsLLHuDrRcRZubFqWCKfLKcpVyHJKFH.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0048-NPJB00099_00-WIZDL0000000001R</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_225" attr="psnstuff_PSN_JP_link_225"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_JP_item_226_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_226">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0048/NPJB00039_00/8v0Q8MsghQnXmYKWs4fOPds1Yte7SRpxVRwnTUxj3GMXbFCPTn1oo0QsHEXsovBysSebpIcRX4L56wEvu3DPry20i43S84fSN3AYq.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0048/NPJB00039_00/8v0Q8MsghQnXmYKWs4fOPds1Yte7SRpxVRwnTUxj3GMXbFCPTn1oo0QsHEXsovBysSebpIcRX4L56wEvu3DPry20i43S84fSN3AYq.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0048-NPJB00039_00-WIZDL0000000001R</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_226" attr="psnstuff_PSN_JP_link_226"/>
+        </Items>
+		
+    </View>
+
+</XMBML>

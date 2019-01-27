@@ -13,7 +13,7 @@
 	<Table key="usagames">
 				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/globe.png</String></Pair>
 				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
-				<Pair key="title"><String>USA Games (work in progress)</String></Pair>
+				<Pair key="title"><String>USA Games</String></Pair>
 				<Pair key="info"><String>USA Region Games</String></Pair>
 				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>
@@ -21,7 +21,7 @@
 	<Table key="jpngames">
 				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/globe.png</String></Pair>
 				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
-				<Pair key="title"><String>Japan Games (coming soon)</String></Pair>
+				<Pair key="title"><String>Japan Games</String></Pair>
 				<Pair key="info"><String>Japan Region Games</String></Pair>
 				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>

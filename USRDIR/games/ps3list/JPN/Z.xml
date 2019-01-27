@@ -1,0 +1,41 @@
+<XMBML version="1.0">
+	<View id="Z_games">
+		<Attributes>
+			<Table key="psnstuff_PSN_JP_item_227">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>ZONE OF THE ENDERS HD EDITION PlayStation3 the Best</String></Pair>
+				<Pair key="info"><String>NPJB00192 - 8541.78 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_227"
+				attr="psnstuff_PSN_JP_item_227"
+				src="#psnstuff_PSN_JP_item_227_link"
+			/>
+		</Items>
+	</View>
+
+	<View id="psnstuff_PSN_JP_item_227_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_227">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0101/NPJB00192_00/JPprlPlUULnBakWnBfMDymZexVqzIYtOLBBXjExhWXBZsobJpNrrWgIucdPPYRHBrMgaxBrsHwmqsUqyeRkTiZmOtUZeJxNJocITz.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0101/NPJB00192_00/JPprlPlUULnBakWnBfMDymZexVqzIYtOLBBXjExhWXBZsobJpNrrWgIucdPPYRHBrMgaxBrsHwmqsUqyeRkTiZmOtUZeJxNJocITz.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0101-NPJB00192_00-ZOEHDMAINGAME001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_227" attr="psnstuff_PSN_JP_link_227"/>
+        </Items>
+		
+    </View>
+
+</XMBML>

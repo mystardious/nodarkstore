@@ -1,0 +1,131 @@
+<XMBML version="1.0">
+	<View id="J_games">
+		<Attributes>
+			<Table key="psnstuff_PSN_JP_item_102">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Jet Set Radio</String></Pair>
+				<Pair key="info"><String>NPJB00225 - 1144.74 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_JP_item_103">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Joe Danger</String></Pair>
+				<Pair key="info"><String>NPJB00153 - 306.88 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_JP_item_104">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>JoJo's Bizarre Adventure HD Version</String></Pair>
+				<Pair key="info"><String>NPJB00207 - 649.55 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_JP_item_105">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Journey</String></Pair>
+				<Pair key="info"><String>NPJA00070 - 569.04 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_102"
+				attr="psnstuff_PSN_JP_item_102"
+				src="#psnstuff_PSN_JP_item_102_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_103"
+				attr="psnstuff_PSN_JP_item_103"
+				src="#psnstuff_PSN_JP_item_103_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_104"
+				attr="psnstuff_PSN_JP_item_104"
+				src="#psnstuff_PSN_JP_item_104_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_105"
+				attr="psnstuff_PSN_JP_item_105"
+				src="#psnstuff_PSN_JP_item_105_link"
+			/>
+		</Items>
+	</View>
+
+	<View id="psnstuff_PSN_JP_item_102_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_102">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://ares.dl.playstation.net/cdn/JP0177/NPJB00225_00/RbgivcnjKCTBLKcmOsmzdIGUreGkvmJteUQVDWbtEZjxgFkxMcqvaXVSVNpmKexbPfINbzTGhLwtoMqsCDkWBsrEWEaQItYZfhiHc.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://ares.dl.playstation.net/cdn/JP0177/NPJB00225_00/RbgivcnjKCTBLKcmOsmzdIGUreGkvmJteUQVDWbtEZjxgFkxMcqvaXVSVNpmKexbPfINbzTGhLwtoMqsCDkWBsrEWEaQItYZfhiHc.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0177-NPJB00225_00-JETSETRADIODEMO0</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_102" attr="psnstuff_PSN_JP_link_102"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_JP_item_103_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_103">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://ares.dl.playstation.net/cdn/JP0020/NPJB00153_00/glJSZYBsvqxvuhsLZOBsFDkswKrOUBIFRxTCztnDZsQHJAhkdHxeFSqbTyUZFQSOvhgiaKzwGVSjSDNkauzWmWyZnYvbsPqrEZpau.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://ares.dl.playstation.net/cdn/JP0020/NPJB00153_00/glJSZYBsvqxvuhsLZOBsFDkswKrOUBIFRxTCztnDZsQHJAhkdHxeFSqbTyUZFQSOvhgiaKzwGVSjSDNkauzWmWyZnYvbsPqrEZpau.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0020-NPJB00153_00-JOEDANGERHG00001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_103" attr="psnstuff_PSN_JP_link_103"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_JP_item_104_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_104">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://ares.dl.playstation.net/cdn/JP0102/NPJB00207_00/GEOtxrMxPpxeGHOYzgRjfQdbweLHmZqyoVGmimmjgoPduTjsDbmWAimvajDZViUauHyJPzzQpuzaOwdOlJuhJNGKGOtNJPpUmLpye.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://ares.dl.playstation.net/cdn/JP0102/NPJB00207_00/GEOtxrMxPpxeGHOYzgRjfQdbweLHmZqyoVGmimmjgoPduTjsDbmWAimvajDZViUauHyJPzzQpuzaOwdOlJuhJNGKGOtNJPpUmLpye.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0102-NPJB00207_00-JOJOBAHD00000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_104" attr="psnstuff_PSN_JP_link_104"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_JP_item_105_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_105">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://ares.dl.playstation.net/cdn/JP9000/NPJA00070_00/ZMBlWtpHJFJlvaYTEkAgcYEEkYZjYzfJbgWIVejFNRkhqojfcVcPAKxyQzIcoceBwrUTixayNkzUCBAAWfqgCJFoCMadGBDJRgUwg.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://ares.dl.playstation.net/cdn/JP9000/NPJA00070_00/ZMBlWtpHJFJlvaYTEkAgcYEEkYZjYzfJbgWIVejFNRkhqojfcVcPAKxyQzIcoceBwrUTixayNkzUCBAAWfqgCJFoCMadGBDJRgUwg.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP9000-NPJA00070_00-DJOURNEYXX0000A1</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_105" attr="psnstuff_PSN_JP_link_105"/>
+        </Items>
+		
+    </View>
+
+</XMBML>

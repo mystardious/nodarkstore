@@ -1,62 +1,130 @@
 <XMBML version="1.0">
-<View id="Q_games">
-<Attributes>
- <Table key="psnstuff_PSN_EU_item_439">
-                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Q.U.B.E - Director's Cut.png</String></Pair>
-                <Pair key="title"><String>Q.U.B.E: Director's Cut</String></Pair>
-                <Pair key="info"><String>NPEB01306 - 510.07 Mb</String></Pair>
-                <Pair key="ingame"><String>disable</String></Pair>
-            </Table>
-            <Table key="psnstuff_PSN_EU_item_440">
-                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Qlione.png</String></Pair>
-                <Pair key="title"><String>Qlione</String></Pair>
-                <Pair key="info"><String>NPEA00193 - 46.69 Mb</String></Pair>
-                <Pair key="ingame"><String>disable</String></Pair>
-            </Table>
-            <Table key="psnstuff_PSN_EU_item_441">
-                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
-                <Pair key="title"><String>Qlione 2</String></Pair>
-                <Pair key="info"><String>NPEA00262 - 80.09 Mb</String></Pair>
-                <Pair key="ingame"><String>disable</String></Pair>
-            </Table>
-            <Table key="psnstuff_PSN_EU_item_442">
-                <Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/games/ps3list/IMG/Quantum Theory.png</String></Pair>
-                <Pair key="title"><String>Quantum Theory</String></Pair>
-                <Pair key="info"><String>NPEB01259 - 6356.22 Mb</String></Pair>
-                <Pair key="ingame"><String>disable</String></Pair>
-            </Table>
-</Attributes>
+	<View id="Q_games">
+		<Attributes>
+			<Table key="psnstuff_PSN_EU_item_617">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Q*bert: Rebooted</String></Pair>
+				<Pair key="info"><String>NPEB02172 - N/A Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_EU_item_618">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Q.U.B.E: Director's Cut</String></Pair>
+				<Pair key="info"><String>NPEB01306 - N/A Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_EU_item_619">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Qello Concerts</String></Pair>
+				<Pair key="info"><String>NPEB02055 - 14.40 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_EU_item_620">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Qlione</String></Pair>
+				<Pair key="info"><String>NPEA00193 - 46.69 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_EU_item_621">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Qlione 2</String></Pair>
+				<Pair key="info"><String>NPEA00262 - 80.09 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_EU_item_622">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Quantum Conundrum</String></Pair>
+				<Pair key="info"><String>NPEB00895 - 1650.48 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_EU_item_623">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Quantum Theory</String></Pair>
+				<Pair key="info"><String>NPEB01259 - 6356.22 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_EU_item_624">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Quizball Goal</String></Pair>
+				<Pair key="info"><String>NPEB00352 - 400.24 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
 
-<Items>
-<Query
-                class="type:x-xmb/folder-pixmap"
-                key="psnstuff_PSN_EU_item_439"
-                attr="psnstuff_PSN_EU_item_439"
-                src="#psnstuff_PSN_EU_item_439_link"
-            />
-            <Query
-                class="type:x-xmb/folder-pixmap"
-                key="psnstuff_PSN_EU_item_440"
-                attr="psnstuff_PSN_EU_item_440"
-                src="#psnstuff_PSN_EU_item_440_link"
-            />
-            <Query
-                class="type:x-xmb/folder-pixmap"
-                key="psnstuff_PSN_EU_item_441"
-                attr="psnstuff_PSN_EU_item_441"
-                src="#psnstuff_PSN_EU_item_441_link"
-            />
-            <Query
-                class="type:x-xmb/folder-pixmap"
-                key="psnstuff_PSN_EU_item_442"
-                attr="psnstuff_PSN_EU_item_442"
-                src="#psnstuff_PSN_EU_item_442_link"
-            />
-</Items>
-</View>
- <View id="psnstuff_PSN_EU_item_439_link">
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_EU_item_617"
+				attr="psnstuff_PSN_EU_item_617"
+				src="#psnstuff_PSN_EU_item_617_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_EU_item_618"
+				attr="psnstuff_PSN_EU_item_618"
+				src="#psnstuff_PSN_EU_item_618_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_EU_item_619"
+				attr="psnstuff_PSN_EU_item_619"
+				src="#psnstuff_PSN_EU_item_619_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_EU_item_620"
+				attr="psnstuff_PSN_EU_item_620"
+				src="#psnstuff_PSN_EU_item_620_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_EU_item_621"
+				attr="psnstuff_PSN_EU_item_621"
+				src="#psnstuff_PSN_EU_item_621_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_EU_item_622"
+				attr="psnstuff_PSN_EU_item_622"
+				src="#psnstuff_PSN_EU_item_622_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_EU_item_623"
+				attr="psnstuff_PSN_EU_item_623"
+				src="#psnstuff_PSN_EU_item_623_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_EU_item_624"
+				attr="psnstuff_PSN_EU_item_624"
+				src="#psnstuff_PSN_EU_item_624_link"
+			/>
+		</Items>
+	</View>
+
+	<View id="psnstuff_PSN_EU_item_617_link">
+	
         <Attributes>
-            <Table key="psnstuff_PSN_EU_link_439">
+            <Table key="psnstuff_PSN_EU_link_617">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2135/NPEB02172_00/EP2135-NPEB02172_00-QBERTREBOOTEDPS3_bg_1_e1d255bea4ee546bbbf3982422cfb4e89f0244b3.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2135/NPEB02172_00/EP2135-NPEB02172_00-QBERTREBOOTEDPS3_bg_1_e1d255bea4ee546bbbf3982422cfb4e89f0244b3.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP2135-NPEB02172_00-QBERTREBOOTEDPS3</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_617" attr="psnstuff_PSN_EU_link_617"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_EU_item_618_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_618">
                 <Pair key="info"><String>net_package_install</String></Pair>
                 <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4151/NPEB01306_00/EP4151-NPEB01306_00-QUBEDIRECTORSCUT_bg_1_5b3c5372aca49cfc4cf92fcf30f50ff42ed56b47.pkg</String></Pair>
                 <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4151/NPEB01306_00/EP4151-NPEB01306_00-QUBEDIRECTORSCUT_bg_1_5b3c5372aca49cfc4cf92fcf30f50ff42ed56b47.pkg</String></Pair>
@@ -65,14 +133,34 @@
                 <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
             </Table>
         </Attributes>
+		
         <Items>
-            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_439" attr="psnstuff_PSN_EU_link_439"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_618" attr="psnstuff_PSN_EU_link_618"/>
         </Items>
+		
     </View>
-
-    <View id="psnstuff_PSN_EU_item_440_link">
+	<View id="psnstuff_PSN_EU_item_619_link">
+	
         <Attributes>
-            <Table key="psnstuff_PSN_EU_link_440">
+            <Table key="psnstuff_PSN_EU_link_619">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://ares.dl.playstation.net/cdn/EP4482/NPEB02055_00/EP4482-NPEB02055_00-QELLO20141110000_bg_1_82f556d195d3405c928d42b5f5b3f4d95c8d7b94.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://ares.dl.playstation.net/cdn/EP4482/NPEB02055_00/EP4482-NPEB02055_00-QELLO20141110000_bg_1_82f556d195d3405c928d42b5f5b3f4d95c8d7b94.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4482-NPEB02055_00-QELLO20141110000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_619" attr="psnstuff_PSN_EU_link_619"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_EU_item_620_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_620">
                 <Pair key="info"><String>net_package_install</String></Pair>
                 <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0017/NPEA00193_00/UzgOqKNhsCjOvKHGCqEjnkbJgFrBHlndowMlkMyombytBkYkdHNBoMsChhEXJBNH.pkg</String></Pair>
                 <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0017/NPEA00193_00/UzgOqKNhsCjOvKHGCqEjnkbJgFrBHlndowMlkMyombytBkYkdHNBoMsChhEXJBNH.pkg</String></Pair>
@@ -81,14 +169,16 @@
                 <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
             </Table>
         </Attributes>
+		
         <Items>
-            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_440" attr="psnstuff_PSN_EU_link_440"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_620" attr="psnstuff_PSN_EU_link_620"/>
         </Items>
+		
     </View>
-
-    <View id="psnstuff_PSN_EU_item_441_link">
+	<View id="psnstuff_PSN_EU_item_621_link">
+	
         <Attributes>
-            <Table key="psnstuff_PSN_EU_link_441">
+            <Table key="psnstuff_PSN_EU_link_621">
                 <Pair key="info"><String>net_package_install</String></Pair>
                 <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0017/NPEA00262_00/GlAqBVzLViQNmqSXBEjRUuzRoRxVNbiudDLnXZhwUkSGSEYngZEZhzEsgiVTtKdF.pkg</String></Pair>
                 <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0017/NPEA00262_00/GlAqBVzLViQNmqSXBEjRUuzRoRxVNbiudDLnXZhwUkSGSEYngZEZhzEsgiVTtKdF.pkg</String></Pair>
@@ -97,14 +187,34 @@
                 <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
             </Table>
         </Attributes>
+		
         <Items>
-            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_441" attr="psnstuff_PSN_EU_link_441"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_621" attr="psnstuff_PSN_EU_link_621"/>
         </Items>
+		
     </View>
-
-    <View id="psnstuff_PSN_EU_item_442_link">
+	<View id="psnstuff_PSN_EU_item_622_link">
+	
         <Attributes>
-            <Table key="psnstuff_PSN_EU_link_442">
+            <Table key="psnstuff_PSN_EU_link_622">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://ares.dl.playstation.net/cdn/EP0082/NPEB00895_00/ttRGnkexNYcNylwpCAdCAGZqSKyeywCtLnAdcZJeqjgTYbAqIVpJQOFuJYMfALxt.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://ares.dl.playstation.net/cdn/EP0082/NPEB00895_00/ttRGnkexNYcNylwpCAdCAGZqSKyeywCtLnAdcZJeqjgTYbAqIVpJQOFuJYMfALxt.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0082-NPEB00895_00-QUANTUMCONUNDRUM</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_622" attr="psnstuff_PSN_EU_link_622"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_EU_item_623_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_623">
                 <Pair key="info"><String>net_package_install</String></Pair>
                 <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4108/NPEB01259_00/XbAXvmlTVtWKtLqDojaWgjYLAyvGVIFGfYQZUEJkUaksAmdOFHqugwZTOlbcakSE.pkg</String></Pair>
                 <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4108/NPEB01259_00/XbAXvmlTVtWKtLqDojaWgjYLAyvGVIFGfYQZUEJkUaksAmdOFHqugwZTOlbcakSE.pkg</String></Pair>
@@ -113,8 +223,29 @@
                 <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
             </Table>
         </Attributes>
+		
         <Items>
-            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_442" attr="psnstuff_PSN_EU_link_442"/>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_623" attr="psnstuff_PSN_EU_link_623"/>
         </Items>
+		
     </View>
+	<View id="psnstuff_PSN_EU_item_624_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_EU_link_624">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://ares.dl.playstation.net/cdn/EP4331/NPEB00352_00/QBZbnUirUHvcJYaqnRSwACYYKCjnvvgAldurhqGEoUzWqFkepXHRubmwCskTDZkS.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://ares.dl.playstation.net/cdn/EP4331/NPEB00352_00/QBZbnUirUHvcJYaqnRSwACYYKCjnvvgAldurhqGEoUzWqFkepXHRubmwCskTDZkS.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4331-NPEB00352_00-QUIZBALLGOAL0001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_EU_link_624" attr="psnstuff_PSN_EU_link_624"/>
+        </Items>
+		
+    </View>
+
 </XMBML>

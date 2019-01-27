@@ -1,0 +1,101 @@
+<XMBML version="1.0">
+	<View id="F_games">
+		<Attributes>
+			<Table key="psnstuff_PSN_JP_item_78">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Final Exam</String></Pair>
+				<Pair key="info"><String>NPJB00546 - 727.32 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_JP_item_79">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Final Fantasy XIII-2</String></Pair>
+				<Pair key="info"><String>NPJB00285 - N/A Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_JP_item_80">
+				<Pair key="icon"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+				<Pair key="title"><String>Flight Control HD</String></Pair>
+				<Pair key="info"><String>NPJB00110 - 70.07 Mb</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_78"
+				attr="psnstuff_PSN_JP_item_78"
+				src="#psnstuff_PSN_JP_item_78_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_79"
+				attr="psnstuff_PSN_JP_item_79"
+				src="#psnstuff_PSN_JP_item_79_link"
+			/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="psnstuff_PSN_JP_item_80"
+				attr="psnstuff_PSN_JP_item_80"
+				src="#psnstuff_PSN_JP_item_80_link"
+			/>
+		</Items>
+	</View>
+
+	<View id="psnstuff_PSN_JP_item_78_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_78">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://ares.dl.playstation.net/cdn/JP0070/NPJB00546_00/PHlkguJJDUeUVddYLYBDssezixOkAnOGCyIWVEbvQsJMzCjhKrJfaFztYyIbapzbBMXpWUozdYlPsYdvxFxgjehDOtNNSYReMCYnA.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://ares.dl.playstation.net/cdn/JP0070/NPJB00546_00/PHlkguJJDUeUVddYLYBDssezixOkAnOGCyIWVEbvQsJMzCjhKrJfaFztYyIbapzbBMXpWUozdYlPsYdvxFxgjehDOtNNSYReMCYnA.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0070-NPJB00546_00-FINALEXAMDEMOJP1</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_78" attr="psnstuff_PSN_JP_link_78"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_JP_item_79_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_79">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0082/NPJB00285_00/arWsWsrjJtrvAniULWTPrrRfdBiHplLMVUSKfhrUwUmzPtuojJAXpoCsaYdIehlrLITjLHCDmIygaAFFUFWgXaCbIckxjtAOpWRGB.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0082/NPJB00285_00/arWsWsrjJtrvAniULWTPrrRfdBiHplLMVUSKfhrUwUmzPtuojJAXpoCsaYdIehlrLITjLHCDmIygaAFFUFWgXaCbIckxjtAOpWRGB.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0082-NPJB00285_00-DLOADVERSION0100</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_79" attr="psnstuff_PSN_JP_link_79"/>
+        </Items>
+		
+    </View>
+	<View id="psnstuff_PSN_JP_item_80_link">
+	
+        <Attributes>
+            <Table key="psnstuff_PSN_JP_link_80">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0518/NPJB00110_00/vsGalltAIbudGEpykFuvrMVMGDuExsLYMknEMikIUrtuhfPhbXaUBYXJnziNtHXKYeGSiVgdZzkBJFSEsFDHjfOnaQVslJKMvtPIo.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0518/NPJB00110_00/vsGalltAIbudGEpykFuvrMVMGDuExsLYMknEMikIUrtuhfPhbXaUBYXJnziNtHXKYeGSiVgdZzkBJFSEsFDHjfOnaQVslJKMvtPIo.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP0518-NPJB00110_00-FLIGHTCONTROLHD1</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/DARKSTORE/USRDIR/icons/download.png</String></Pair>
+            </Table>
+        </Attributes>
+		
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="psnstuff_PSN_JP_link_80" attr="psnstuff_PSN_JP_link_80"/>
+        </Items>
+		
+    </View>
+
+</XMBML>
